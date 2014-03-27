@@ -1,14 +1,14 @@
 ---
-layout: default
-title: Home
+layout: post
+title: So what now?
+description: "Installing Jekyll via many twisty paths to finally succeed."
+modified: 2014-03-27
+category: articles
+tags: [jekyll github-pages ruby os-x homebrew]
+share: true
 ---
 
-Getting this thing up and going.
-================================
-
-I've been jumping around a bit between different technologies recently. Learning heaps and forgetting as much too. I decided I needed a place to document what I'd learned and hopefully it could also serve as a reference so I could not have to relearn stuff I did only rarely. This is that place.
-
-##So what now?
+#So what now?
 
 It makes sense that the first thing I should document is how I got GitHub pages up and running with Jekyll using my MacBook Air.
 
@@ -118,7 +118,3 @@ Generate the site and run the local server.
 I fiddled a bit after this with the files but I'm leaving the actual real development using Jekyll to next time.
 
 Push to GitHub, check, then bedtime.
-
-
-
-
