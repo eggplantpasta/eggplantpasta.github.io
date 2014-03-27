@@ -5,3 +5,6 @@ _site
 codekit-config.json
 node_modules
 Gemfile.lock
+
+#to avoid overwriting url:
+_config.yml
