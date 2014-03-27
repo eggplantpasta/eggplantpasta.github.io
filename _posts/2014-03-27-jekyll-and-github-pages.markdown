@@ -1,14 +1,12 @@
 ---
 layout: post
 title: So what now?
-description: "Installing Jekyll via many twisty paths to finally succeed."
+description: "Installing Jekyll, via many twisty paths, to final success."
 modified: 2014-03-27
 category: articles
 tags: [jekyll github-pages ruby os-x homebrew]
 share: true
 ---
-
-#So what now?
 
 It makes sense that the first thing I should document is how I got GitHub pages up and running with Jekyll using my MacBook Air.
 
