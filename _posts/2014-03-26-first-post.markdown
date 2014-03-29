@@ -2,7 +2,7 @@
 layout: post
 title:  "First post!"
 description: "Why is this here?"
-date:   2014-03-26 18:00:00
+modified:   2014-03-26 18:00:00
 category: articles
 tags: [blog]
 share: true
