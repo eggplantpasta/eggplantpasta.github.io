@@ -10,12 +10,12 @@ share: true
 
 It makes sense that the first thing I should document is how I got GitHub pages up and running with Jekyll.
 
-I use OS X on my MacBook Air. If you're using OS X for any programming at all the first thing you should do is download and install XCode and the command line tools. You can get them both from the App Store. I'm just saying that up front becaue no one else seems to bother to mention it and I learned it at the end of the install process (see bottom of page).
+I use OS X on my MacBook Air. If you're using OS X for any programming at all the first thing you should do is download and install XCode and the command line tools. You can get them both from the App Store. I'm just saying that up front becaue no one else seems to bother to mention it and I learned it, sadly, at the *end* of the install process (see bottom of page).
 
 
 ## tl;dr
 
-The following is what I should have done to set up my GitHub user pages.
+The following is what I *should* have done to set up my GitHub user pages.
 
 * Install [XCode](https://itunes.apple.com/au/app/xcode/id497799835?mt=12) and command line tools from the App Store.
 
