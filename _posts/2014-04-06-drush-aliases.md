@@ -17,7 +17,7 @@ Aliases are defined in alias files. An alias file containing extensive examples 
 An alias file can be of a few forms and stored in various places but in general I like to use "group" alias files stored in the .drush directory of my home folder e.g.: `~/.drush/sitename.aliases.drushrc.php`. I have one file per project definining (typically) a local, dev, and live site. Alias groups create an implicit namespace that is named after the group so the alias is refered to as @group.site e.g.: `drush status @sitename.dev`
 
 
-The basic content defining local aliases grouped in a file is:
+The minimum definition of a local alias is:
 
 {% highlight php %}
 <?php
@@ -25,11 +25,13 @@ $aliases['dev'] = array(
   'root' => '/home/username/www/dev.sitename.com',
   'uri' => 'dev.sitename.com',
 );
-$aliases['live'] = array(
-  'root' => '/home/username/www/sitename.com',
-  'uri' => 'sitename.com',
-);
 ?>
+{% endhighlight %}
+
+There are many more options than this which makes it tedious to define by hand. To shortcut the process for a working site drush itself can output the required definition. Change to the root of the working site and issue the command:
+
+{% highlight bash %}
+drush site-alias --with-db --show-passwords --with-optional @self
 {% endhighlight %}
 
 ## Remote aliases

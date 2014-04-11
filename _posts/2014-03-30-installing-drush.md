@@ -82,5 +82,6 @@ drush --version
 To update to a newer version in the future:
 
 ~~~bash
+composer self-update
 composer global update
 ~~~
