@@ -4,7 +4,7 @@ title: Drush Site Aliases
 description: "Configuring drush site aliases for local and remote sites."
 modified: 2014-04-06
 category: articles
-tags: [drupal, drush]
+tags: [drupal, drush, aliases, ssh]
 share: true
 ---
 
@@ -14,10 +14,9 @@ Drush aliases allow you to refer to sites via shortnames like @dev or @live. The
 
 Aliases are defined in alias files. An alias file containing extensive examples and documentation is shipped with drush and can be viewed by giving the command `drush docs-aliases` or referenced from GitHib [here](https://github.com/drush-ops/drush/blob/master/examples/example.aliases.drushrc.php).
 
-An alias file can be of a few forms and stored in various places but in general I like to use "group" alias files stored in the .drush directory of my home folder e.g.: `~/.drush/sitename.aliases.drushrc.php`. I have one file per project definining (typically) a local, dev, and live site. Alias groups create an implicit namespace that is named after the group so the alias is refered to as @group.site e.g.: `drush status @sitename.dev`
+An alias file can be of a few forms and stored in various places but in general I like to use "group" alias files stored in the .drush directory of my home folder e.g.: `~/.drush/sitename.aliases.drushrc.php`. I have one file per project definining (typically) a local, dev, and live site. Alias groups create an implicit namespace that is named after the group so the alias is refered to as @group.site e.g.: `drush @sitename.dev status`
 
-
-The basic content defining local aliases grouped in a file is:
+The basic format defining local aliases grouped in a file is:
 
 {% highlight php %}
 <?php
