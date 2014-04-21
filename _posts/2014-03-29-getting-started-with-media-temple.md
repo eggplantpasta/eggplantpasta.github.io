@@ -21,7 +21,7 @@ I'd heard about [Media Temple](http://mediatemple.net) for years. People give th
 * 100 GB storage
 * shell access
 
-So I [signed up](https://ac.mediatemple.net/order/domain.mt) and got deep into configuring it for hosting a new drupal site when I discovered [this](http://www.anthonymclin.com/hosting-drupal-mediatemples-grid-service).
+So I [signed up](https://ac.mediatemple.net/order/domain.mt) and got deep into configuring it for hosting a new drupal site when I discovered [this](http://www.anthonymclin.com/hosting-drupal-mediatemples-grid-service) person who perfomance tested them and discovered MySQL issues with Drupal.
 
 More googling uncovered [this](https://forum.mediatemple.net/topic/6558-504-gateway-timeout-errors-for-drupal-site/), [this](https://drupal.org/node/1289828), and [this](http://mediatemple.net/blog/2007/01/19/anatomy-of-mysql-on-the-grid/).
 
