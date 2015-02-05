@@ -37,7 +37,7 @@ http://twitter.com/share?text=text goes here&url=http://url goes here&hashtags=h
 https://plus.google.com/share?url=your-page-url
 ~~~
 
-Google uses it's own meta data format to specify custopm images etc. but ti will fall back to open graph if that's what is available.
+Google uses it's own meta data format to specify custopm images etc. but it will fall back to open graph if that's what is available.
 
 ### Pinterest
 
