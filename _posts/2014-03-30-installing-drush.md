@@ -18,10 +18,9 @@ Installing [Drush](https://github.com/drush-ops/drush) on OS X is fairly straigh
 
 {% highlight bash %}
 brew update
-brew tap josegonzalez/homebrew-php
-brew tap homebrew/versions
-brew install php55-intl
-brew install josegonzalez/php/composer
+brew tap homebrew/dupes
+brew tap homebrew/php
+brew install composer
 {% endhighlight %}
 
 * Install Drush 6.x (stable at time of writing).
