@@ -20,8 +20,89 @@ Here's how it's done.
 tap water
 
 <figure>
-	<a href="/images/photos/ginger-beer1" alt="ginger beer ingredients"></a>
+	<a href="/images/photos/ginger-beer1.jpg" alt="ginger beer ingredients"></a>
 	<figcaption>Ginger beer ingredients.</figcaption>
 </figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer2.jpg" alt="add ginger powder to cup"></a>
+	<figcaption>Add ginger powder to cup.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer3.jpg" alt="add boiling water stir and cover"></a>
+	<figcaption>Add boiling water stir and cover.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer4.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer5.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer6.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer7.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer8.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer9.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer10.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer11.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer12.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer13.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer14.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer15.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer16.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/photos/ginger-beer17.jpg" alt="ginger beer ingredients"></a>
+	<figcaption>Ginger beer ingredients.</figcaption>
+</figure>
+
 
 
