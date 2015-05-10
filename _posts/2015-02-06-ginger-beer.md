@@ -20,7 +20,7 @@ Here's how it's done.
 tap water
 
 <figure>
-	<img href="/images/photos/ginger-beer1.jpg" alt="ginger beer ingredients"></img>
+	<img href="/images/photos/ginger-beer1.jpg" alt="ginger beer ingredients">
 	<figcaption>Ginger beer ingredients.</figcaption>
 </figure>
 
