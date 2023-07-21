@@ -1,10 +1,11 @@
-_site
+_site/
 .DS_Store
 *.sublime-project
 *.sublime-workspace
 codekit-config.json
-node_modules
+node_modules/
 Gemfile.lock
+package-lock.json
 
 #to avoid overwriting url:
 _config.yml

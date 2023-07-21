@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "About"
+tags: page
 ---
 
 # What is this?
