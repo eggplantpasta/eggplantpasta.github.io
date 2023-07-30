@@ -78,6 +78,11 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+	// attribution CC TASL format
+	eleventyConfig.addShortcode("attribution", (title, author, authorUrl, sourceUrl, license, licenseUrl, modification) => 
+		 `<span class="attribution">"<a rel="nofollow" href="${sourceUrl}">${title}</a>" by <a rel="nofollow" href="${authorUrl}">${author}</a>, used under <a rel="nofollow" href="${licenseUrl}">${license}</a>. ${modification}</span>`
+	);
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
