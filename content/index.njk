@@ -9,6 +9,9 @@ numberOfLatestPostsToShow: 3
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
+{% image "../public/img/shakespeare-and-co.jpg", "The Shakespeare & Company Bookshop." %}
+{% attribution "The Shakespeare & Company Bookshop", "Alexandre Duret-Lutz", "https://www.flickr.com/photos/gadl/", "https://www.flickr.com/photos/gadl/108218374/", "CC BY SA 2.0", "https://creativecommons.org/licenses/by-sa/2.0/", "Cropped." %}
+
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
