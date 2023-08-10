@@ -1,10 +1,13 @@
 ---
+eleventyNavigation:
+  key: Awesome
+  order: 3
 title:  "Decade of Awesome"
 description: "My 50's are awesome."
 date:   2023-07-10 18:00:00
 tags: 
-  - blog
   - decade of awesome
+  - blog
 ---
 
 In 2018, before I turned 50, my long time mate Danni talked to me about how the decade of our 50's was the last chance to do some really active things before our body starts limiting us. I took it on board and vowed to make this decade of my 50's the most awesome so far. 
