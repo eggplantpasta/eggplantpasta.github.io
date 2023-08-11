@@ -1,21 +1,228 @@
----
-layout: nil
----
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>{{ site.url }}</loc>
-    </url>
-    
-    {% for page in site.pages %}
-    <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
-    </url>
-    {% endfor %}
-
-    {% for post in site.posts %}
-    <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
-    </url>
-    {% endfor %}
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-03-26-first-post/</loc>
+		<lastmod>2014-03-26</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/</loc>
+		<lastmod>2014-03-27</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-03-29-getting-started-with-media-temple/</loc>
+		<lastmod>2014-03-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-03-30-installing-drush/</loc>
+		<lastmod>2014-03-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-04-05-drush-usage/</loc>
+		<lastmod>2014-04-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-04-06-drush-aliases/</loc>
+		<lastmod>2014-04-06</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-04-10-301-redirects/</loc>
+		<lastmod>2014-04-10</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-04-12-social-media-links/</loc>
+		<lastmod>2014-04-12</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-04-21-vagrant-digital-ocean/</loc>
+		<lastmod>2014-04-21</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-05-11-minecraft-digital-ocean/</loc>
+		<lastmod>2014-04-21</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2014-05-29-oracle-vagrant/</loc>
+		<lastmod>2014-04-21</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2015-02-06-ginger-beer/</loc>
+		<lastmod>2015-02-06</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/2023-07-10-decade-of-awesome/</loc>
+		<lastmod>2023-07-10</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/about/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/blog/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/blog/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/jekyll/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/github-pages/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/ruby/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/os-x/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/homebrew/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/hosting/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/drupal/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/media-temple/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/csoft/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/bsd/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/drush/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/todo/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/aliases/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/ssh/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/301-redirect/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/htaccess/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/seo/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/html/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/socal-media/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/open-graph/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/vagrant/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/digitalocean/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/minecraft/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/oracle/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/recipie/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/ginger-beer/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://eggplantpasta.github.io/tags/decade-of-awesome/</loc>
+		<lastmod>2023-08-11</lastmod>
+	</url>
 </urlset>

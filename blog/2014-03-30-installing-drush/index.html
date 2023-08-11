@@ -1,0 +1,578 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Installing Drush</title>
+		<meta name="description" content="Installing drush and drupal on csoft.net.">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="eggplantpasta.github.io">
+		<link rel="alternate" href="/feed/feed.json" type="application/json" title="eggplantpasta.github.io">
+		<meta name="generator" content="Eleventy v2.0.1">
+		
+		<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
+* { box-sizing: border-box; }
+/* Defaults */
+:root {
+	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+main {
+	padding: 1rem;
+}
+main :first-child {
+	margin-top: 0;
+}
+
+header {
+	border-bottom: 1px dashed var(--color-gray-20);
+}
+header:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.links-nextprev {
+	list-style: none;
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+}
+code {
+	word-break: break-all;
+}
+
+/* attribution */
+.attribution, .attribution a[href], .attribution a[href]:visited, .attribution a[href]:hover, .attribution a[href]:active {
+	font-size: x-small;
+	color: var(--color-gray-50);
+}
+
+/* Header */
+header {
+	display: flex;
+	gap: 1em .5em;
+	flex-wrap: wrap;
+	align-items: center;
+	padding: 1em;
+}
+.home-link {
+	font-size: 1em; /* 16px /16 */
+	font-weight: 700;
+	margin-right: 2em;
+}
+.home-link:link:not(:hover) {
+	text-decoration: none;
+}
+
+/* Nav */
+.nav {
+	display: flex;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.nav-item {
+	display: inline-block;
+	margin-right: 1em;
+}
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+}
+.nav a[href][aria-current="page"] {
+	text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}
+
+/* Direct Links / Markdown Headers */
+.header-anchor {
+	text-decoration: none;
+	font-style: normal;
+	font-size: 1em;
+	margin-left: .1em;
+}
+a[href].header-anchor,
+a[href].header-anchor:visited {
+	color: transparent;
+}
+a[href].header-anchor:focus,
+a[href].header-anchor:hover {
+	text-decoration: underline;
+}
+a[href].header-anchor:focus,
+:hover > a[href].header-anchor {
+	color: #aaa;
+}
+
+h2 + .header-anchor {
+	font-size: 1.5em;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+figure {
+    display: inline-grid;
+    flex-flow: row wrap;
+    padding: 5px;
+    width: 220px;
+    margin: auto;
+}
+
+figure img {
+    max-width: 220px;
+    height: auto;
+	display: inline-block;
+}
+
+figcaption {
+	display: inline-block;
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}</style>
+	</head>
+	<body>
+		<a href="#skip" class="visually-hidden">Skip to main content</a>
+
+		<header>
+			<a href="/" class="home-link">eggplantpasta.github.io</a>
+			<nav>
+				<h2 class="visually-hidden">Top level navigation menu</h2>
+				<ul class="nav">
+					<li class="nav-item"><a href="/">Home</a></li>
+					<li class="nav-item"><a href="/blog/">Archive</a></li>
+					<li class="nav-item"><a href="/blog/2023-07-10-decade-of-awesome/">Awesome</a></li>
+					<li class="nav-item"><a href="/about/">About</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main id="skip">
+			
+<h1>Installing Drush</h1>
+
+<ul class="post-metadata">
+	<li><time datetime="2014-03-29">29 March 2014</time></li>
+	<li><a href="/tags/hosting/" class="post-tag">hosting</a>, </li>
+	<li><a href="/tags/csoft/" class="post-tag">csoft</a>, </li>
+	<li><a href="/tags/bsd/" class="post-tag">BSD</a>, </li>
+	<li><a href="/tags/drupal/" class="post-tag">drupal</a>, </li>
+	<li><a href="/tags/drush/" class="post-tag">drush</a></li>
+</ul>
+
+<h2 id="installing-drush-on-os-x" tabindex="-1">Installing Drush on OS X <a class="header-anchor" href="#installing-drush-on-os-x">#</a></h2>
+<p>Installing <a href="https://github.com/drush-ops/drush">Drush</a> on OS X is fairly straight forward. I'm writing this from memory but I think it went a little like this...</p>
+<ul>
+<li>
+<p><strong>Prerequisites:</strong> Install <a href="https://itunes.apple.com/au/app/xcode/id497799835?mt=12">XCode</a> and command line tools from the App Store. Install <a href="http://brew.sh/">homebrew</a>.</p>
+</li>
+<li>
+<p>Install <a href="https://getcomposer.org/doc/00-intro.md#globally-on-osx-via-homebrew-">Composer</a> globally (via. homebrew).</p>
+</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash">brew update
+brew tap homebrew/dupes
+brew tap homebrew/php
+brew <span class="token function">install</span> <span class="token function">composer</span></code></pre>
+<ul>
+<li>Install Drush 6.x (stable at time of writing).</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token function">composer</span> global require drush/drush:6.*</code></pre>
+<ul>
+<li>Test it</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash">drush <span class="token parameter variable">--version</span></code></pre>
+<h2 id="installing-drush-on-csoft-net" tabindex="-1">Installing Drush on Csoft.net <a class="header-anchor" href="#installing-drush-on-csoft-net">#</a></h2>
+<p>I've been hosting various sites at <a href="https://www.csoft.net">csoft.net</a> since about 2000 and using Drupal on there since around 2004 (version 4.5 I think). If you're comfortable on the command line (BSD) they help you look after yourself. They're solid.</p>
+<p>The install of Drush on Csoft shared hosting is a little more involved than on OS X. Both Composer and Drush require command line PHP rather than the Csoft default of fast CGI. This can be found at /usr/local/php-[version]/bin/php and must be specified explicitly. Make sure to use a version of PHP with openssl to avoid the following error.</p>
+<pre class="language-bash" tabindex="0"><code class="language-bash">Some settings on your machine <span class="token function">make</span> Composer unable to work properly.
+Make sure that you fix the issues listed below and run this script again:
+
+The openssl extension is missing, <span class="token function">which</span> means that secure HTTPS transfers are impossible.
+If possible you should <span class="token builtin class-name">enable</span> it or recompile php with --with-openssl</code></pre>
+<ul>
+<li>Install Composer locally and set up an alias to ensure it runs using the correct php.</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token function">curl</span> <span class="token parameter variable">-sS</span> https://getcomposer.org/installer <span class="token operator">|</span> /usr/local/php53-fat/bin/php -- --install-dir<span class="token operator">=</span>bin
+<span class="token builtin class-name">alias</span> <span class="token assign-left variable">composer</span><span class="token operator">=</span><span class="token string">'/usr/local/php53-fat/bin/php ~/bin/composer.phar'</span></code></pre>
+<ul>
+<li>Use Composer to install Drush.</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token function">composer</span> global require drush/drush:6.*</code></pre>
+<ul>
+<li>Add the following aliases to your .bash_profile. The drush alias uses the <a href="https://drupal.org/node/1302418">currently recommended</a> way of running under a particular version of PHP by setting the DRUSH_PHP environment variable and calling the drush shell script.</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token builtin class-name">alias</span> <span class="token assign-left variable">composer</span><span class="token operator">=</span><span class="token string">'/usr/local/php53-fat/bin/php ~/bin/composer.phar'</span>
+<span class="token builtin class-name">alias</span> <span class="token assign-left variable">drush</span><span class="token operator">=</span><span class="token string">'DRUSH_PHP=/usr/local/php53-fat/bin/php ~/.composer/vendor/drush/drush/drush'</span></code></pre>
+<ul>
+<li>Reset the environment and test your new drush install</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token builtin class-name">.</span> ~/.bash_profile
+drush <span class="token parameter variable">--version</span></code></pre>
+<h2 id="updating-drush" tabindex="-1">Updating Drush <a class="header-anchor" href="#updating-drush">#</a></h2>
+<p>To update to a newer version in the future:</p>
+<pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token function">composer</span> self-update
+<span class="token function">composer</span> global update</code></pre>
+
+<ul class="links-nextprev"><li>Previous: <a href="/blog/2014-03-29-getting-started-with-media-temple/">Media Temple</a></li><li>Next: <a href="/blog/2014-04-05-drush-usage/">Drush Usage and Commands</a></li>
+</ul>
+
+		</main>
+
+		<footer></footer>
+
+		<!-- Current page: /blog/2014-03-30-installing-drush/ -->
+	</body>
+</html>

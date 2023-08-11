@@ -1,0 +1,646 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>So what now?</title>
+		<meta name="description" content="Installing Jekyll on OS X.">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="eggplantpasta.github.io">
+		<link rel="alternate" href="/feed/feed.json" type="application/json" title="eggplantpasta.github.io">
+		<meta name="generator" content="Eleventy v2.0.1">
+		
+		<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
+* { box-sizing: border-box; }
+/* Defaults */
+:root {
+	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+main {
+	padding: 1rem;
+}
+main :first-child {
+	margin-top: 0;
+}
+
+header {
+	border-bottom: 1px dashed var(--color-gray-20);
+}
+header:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.links-nextprev {
+	list-style: none;
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+}
+code {
+	word-break: break-all;
+}
+
+/* attribution */
+.attribution, .attribution a[href], .attribution a[href]:visited, .attribution a[href]:hover, .attribution a[href]:active {
+	font-size: x-small;
+	color: var(--color-gray-50);
+}
+
+/* Header */
+header {
+	display: flex;
+	gap: 1em .5em;
+	flex-wrap: wrap;
+	align-items: center;
+	padding: 1em;
+}
+.home-link {
+	font-size: 1em; /* 16px /16 */
+	font-weight: 700;
+	margin-right: 2em;
+}
+.home-link:link:not(:hover) {
+	text-decoration: none;
+}
+
+/* Nav */
+.nav {
+	display: flex;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.nav-item {
+	display: inline-block;
+	margin-right: 1em;
+}
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+}
+.nav a[href][aria-current="page"] {
+	text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}
+
+/* Direct Links / Markdown Headers */
+.header-anchor {
+	text-decoration: none;
+	font-style: normal;
+	font-size: 1em;
+	margin-left: .1em;
+}
+a[href].header-anchor,
+a[href].header-anchor:visited {
+	color: transparent;
+}
+a[href].header-anchor:focus,
+a[href].header-anchor:hover {
+	text-decoration: underline;
+}
+a[href].header-anchor:focus,
+:hover > a[href].header-anchor {
+	color: #aaa;
+}
+
+h2 + .header-anchor {
+	font-size: 1.5em;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+figure {
+    display: inline-grid;
+    flex-flow: row wrap;
+    padding: 5px;
+    width: 220px;
+    margin: auto;
+}
+
+figure img {
+    max-width: 220px;
+    height: auto;
+	display: inline-block;
+}
+
+figcaption {
+	display: inline-block;
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}</style>
+	</head>
+	<body>
+		<a href="#skip" class="visually-hidden">Skip to main content</a>
+
+		<header>
+			<a href="/" class="home-link">eggplantpasta.github.io</a>
+			<nav>
+				<h2 class="visually-hidden">Top level navigation menu</h2>
+				<ul class="nav">
+					<li class="nav-item"><a href="/">Home</a></li>
+					<li class="nav-item"><a href="/blog/">Archive</a></li>
+					<li class="nav-item"><a href="/blog/2023-07-10-decade-of-awesome/">Awesome</a></li>
+					<li class="nav-item"><a href="/about/">About</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main id="skip">
+			
+<h1>So what now?</h1>
+
+<ul class="post-metadata">
+	<li><time datetime="2014-03-27">27 March 2014</time></li>
+	<li><a href="/tags/blog/" class="post-tag">blog</a>, </li>
+	<li><a href="/tags/jekyll/" class="post-tag">jekyll</a>, </li>
+	<li><a href="/tags/github-pages/" class="post-tag">github pages</a>, </li>
+	<li><a href="/tags/ruby/" class="post-tag">ruby</a>, </li>
+	<li><a href="/tags/os-x/" class="post-tag">os x</a>, </li>
+	<li><a href="/tags/homebrew/" class="post-tag">homebrew</a></li>
+</ul>
+
+<p>It makes sense that the first thing I should document is how I got GitHub pages up and running with Jekyll.</p>
+<p>I use OS X on my MacBook Air. If you're using OS X for any programming at all the first thing you should do is download and install XCode and the command line tools. You can get them both from the App Store. I'm just saying that up front becaue no one else seems to bother to mention it and I learned it, sadly, at the <em>end</em> of the install process (see bottom of page).</p>
+<h2 id="tl-dr" tabindex="-1">tl;dr <a class="header-anchor" href="#tl-dr">#</a></h2>
+<p>The following is what I <em>should</em> have done to set up my GitHub user pages.</p>
+<ul>
+<li>
+<p>Install <a href="https://itunes.apple.com/au/app/xcode/id497799835?mt=12">XCode</a> and command line tools from the App Store.</p>
+</li>
+<li>
+<p>Create a <a href="https://github.com/new">new repository</a> named eggplantpasta.github.io.</p>
+</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token builtin class-name">cd</span> ~/Git
+<span class="token function">git</span> clone https://github.com/eggplantpasta/eggplantpasta.github.io
+<span class="token builtin class-name">cd</span> eggplantpasta.github.io
+<span class="token builtin class-name">echo</span> <span class="token string">"Hello World"</span> <span class="token operator">></span> index.html
+<span class="token function">git</span> <span class="token function">add</span> <span class="token parameter variable">--all</span>
+<span class="token function">git</span> commit <span class="token parameter variable">-m</span> <span class="token string">"Initial commit"</span>
+<span class="token function">git</span> push</code></pre>
+<ul>
+<li>
+<p>Check the new page is being served correctly at <a href="http://eggplantpasta.github.io">eggplantpasta.github.io</a> (it could take up to 10 minutes to appear for the first time).</p>
+</li>
+<li>
+<p>Install homebrew and run <code>brew doctor</code> to ensure the environmnet is sane.</p>
+</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash">ruby <span class="token parameter variable">-e</span> <span class="token string">"<span class="token variable"><span class="token variable">$(</span><span class="token function">curl</span> <span class="token parameter variable">-fsSL</span> https://raw.github.com/Homebrew/homebrew/go/install<span class="token variable">)</span></span>"</span>
+brew doctor</code></pre>
+<ul>
+<li>Install <a href="http://rvm.io">RVM</a> and Ruby, add to the path, and install dependencies (this may take a whie).</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token punctuation">\</span>curl <span class="token parameter variable">-sSL</span> https://get.rvm.io <span class="token operator">|</span> <span class="token function">bash</span> <span class="token parameter variable">-s</span> stable <span class="token parameter variable">--ruby</span> --auto-dotfiles
+<span class="token builtin class-name">printf</span> <span class="token string">"<span class="token entity" title="\n">\n</span>source ~/.profile"</span> <span class="token operator">>></span> ~/.bash_profile
+rvm requirements</code></pre>
+<ul>
+<li>Install Jekyll and set up a new site.</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash">gem <span class="token function">install</span> jekyll
+<span class="token function">rm</span> README.md index.html
+jekyll new <span class="token builtin class-name">.</span>
+jekyll serve <span class="token parameter variable">--watch</span></code></pre>
+<ul>
+<li>Go to <a href="http://localhost:4000">http://localhost:4000</a> to check the local site is being served.</li>
+</ul>
+<pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token function">git</span> <span class="token function">add</span> <span class="token parameter variable">--all</span>
+<span class="token function">git</span> commit <span class="token parameter variable">-m</span> <span class="token string">"Initial Jekyll commit"</span>
+<span class="token function">git</span> push</code></pre>
+<ul>
+<li>Go to <a href="http://eggplantpasta.github.io">eggplantpasta.github.io</a> to check the local site is being served.</li>
+</ul>
+<p>Your work here is done.</p>
+<h2 id="the-epic-saga" tabindex="-1">The epic saga <a class="header-anchor" href="#the-epic-saga">#</a></h2>
+<p>The following is what actually happened.</p>
+<h3 id="github-pages" tabindex="-1">GitHub Pages <a class="header-anchor" href="#github-pages">#</a></h3>
+<p>I started reading the documentation at GitHub for <a href="http://pages.github.com">GitHub Pages</a>. That was pretty straight forward and I ended up with a &quot;Hello World&quot; being served from <a href="http://eggplantpasta.github.io">here</a> in short order.</p>
+<h3 id="jekyll" tabindex="-1">Jekyll <a class="header-anchor" href="#jekyll">#</a></h3>
+<p>The next thing was to get going on <a href="http://jekyllrb.com">Jekyll</a>. The quickstart on that first page was unclear about which level I should create my project in relation to the root of the repository (turns out it <strong>is</strong> in the root).</p>
+<p>I googled around and found this awesome <a href="http://24ways.org/2013/get-started-with-github-pages/">24 Ways article</a> which gave me a kickstart on the rest.</p>
+<p>In the initial setup it talked about using a repo branch called &quot;gh-pages&quot; but because I was setting up a user page, not a project page, I finally figured out I could ignore that bit.</p>
+<p>At the part where I needed to install Jekyll <code>sudo gem install jekyll</code> I received an error along the lines of <code>ERROR: Failed to build gem native extension.</code></p>
+<h3 id="down-the-rabbit-hole" tabindex="-1">Down the rabbit hole <a class="header-anchor" href="#down-the-rabbit-hole">#</a></h3>
+<p>Following a <a href="http://andytaylor.me/2012/11/03/installing-ruby-and-jekyll/">link</a> from the 24 ways article I switched to new instructions. I already had the <a href="https://developer.apple.com/downloads/index.action">OS X command line tools</a> installed[^1] so onto the next bit; installing <a href="http://brew.sh">Homebrew</a>.</p>
+<h3 id="homebrew" tabindex="-1">Homebrew <a class="header-anchor" href="#homebrew">#</a></h3>
+<p>Of course the instructions didn't work for me - they never do.</p>
+<pre><code>ruby -e &quot;$(curl -fsSkL raw.github.com/mxcl/homebrew/go)&quot;
+curl: (22) The requested URL returned error: 404 Not Found`.
+</code></pre>
+<p>A quick trip to the <a href="http://brew.sh">Homebrew homepage</a> got me the correct install command:</p>
+<p><code>ruby -e &quot;$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)&quot;</code>.</p>
+<h3 id="the-doctor" tabindex="-1">The Doctor <a class="header-anchor" href="#the-doctor">#</a></h3>
+<p>At the end of this smooth install process I noticed a message saying <code>You should run 'brew doctor' before you install anything</code>. Always one to follow instructions, I dutifully did so only to be presented with a few screenfulls of warnings. Bummer.</p>
+<p><code>Warning: Broken symlinks were found. Remove them with 'brew prune'</code></p>
+<p>Well that was easily fixed.</p>
+<p><code>Warning: You have MacPorts or Fink installed</code></p>
+<p>I'd installed MacPorts over a year ago to install something-or-other. Since Homebrew seemed to be the package manager in vogue I felt no qualms in <a href="https://guide.macports.org/chunked/installing.macports.uninstalling.html">uninstalling it</a>.</p>
+<p><code>sudo port -fp uninstall installed</code> began clearing out way more than I remembered. Oops. Well we'll see if thats a bad thing later. I figure I can reinstall things using homebrew if I need to anyway.</p>
+<p><code>Warning: Your XQuartz (2.7.4) is outdated</code></p>
+<p>The <a href="https://xquartz.macosforge.org/landing/">update</a> was long running but straight forward and sucessful.</p>
+<p><code>Warning: /usr/bin occurs before /usr/local/bin</code></p>
+<p>And finally just an edit of my <code>.bash_profile</code> leading to <code>Your system is ready to brew</code>. Yay!</p>
+<h3 id="installing-rvm" tabindex="-1">Installing RVM <a class="header-anchor" href="#installing-rvm">#</a></h3>
+<p>I checked the <a href="http://rvm.io/rvm/install">source</a> this time but the instructions were correct so I went ahead. Seems I had installed RVM previously (see what I mean about forgetting) but it went ahead and updated my install giving me the warning:</p>
+<p><code>RVM PATH line not found for Zsh, rerun this command with '--auto-dotfiles' flag to fix it.</code></p>
+<p>Ok. I did what it told me to and this time I get told:</p>
+<pre><code>  * WARNING: You have '~/.profile' file, you might want to load it,
+    to do that add the following line to '/Users/brett/.bash_profile':
+
+      source ~/.profile
+</code></pre>
+<p>Alrighty. I did as told. Previously I had copy pasted the contents into <code>.bash_profile</code> but since it will only create it again I went with it's suggestion of <code>source</code>.</p>
+<h3 id="jekyll-again" tabindex="-1">Jekyll again <a class="header-anchor" href="#jekyll-again">#</a></h3>
+<p><code>gem install jekyll</code></p>
+<p>Nope. <code>Gem::FilePermissionError</code>.</p>
+<p>Ok. <code>sudo gem install jekyll</code></p>
+<p>Nope. <code>clang: error: unknown argument:</code></p>
+<p>Seems I <a href="http://stackoverflow.com/questions/21664841/unable-to-install-jekyll-on-mac-osx-10-9-1-with-xcode-and-rvm-installed">have to install cc-4.2</a>.</p>
+<p><code>brew install apple-gcc42</code></p>
+<p>Nope. seems I am <a href="http://stackoverflow.com/questions/10725767/error-installing-jekyll-native-extension-build">missing make</a> which I can get by installing XCode (which I'd recently removed to make room). Curse you you miniscule SSD. So does that mean I didn't need apple-gcc42?</p>
+<p><code>brew uninstall apple-gcc42</code></p>
+<p>Now I'm following <a href="http://davidensinger.com/2013/03/installing-jekyll/">these</a> instructions. Cross fingers.</p>
+<p>XCode installed from app store.</p>
+<p>Another check of <code>brew doctor</code>.</p>
+<p>Which tells me to start XCode and agree to licence.</p>
+<p><code>rvm requirements</code> seems to be installing gcc46... it takes a loooong time (or perhaps it's crashed). Nope <code>top</code> seems to show make and clang and the fans are spinning wildly. More internet reading then... Facebook bought Occulus Rift! <a href="https://www.youtube.com/watch?v=gBCdlBrgEmE">Strange days indeed</a>.</p>
+<p>Requirements installation successful.</p>
+<p><code>rvm install ruby</code> to get the latest stable version...</p>
+<p>and finally <code>gem install jekyll</code>.</p>
+<p>You can always add <code>--no-rdoc --no-ri</code> to a gem install to skip the documentation and save a little time and space.</p>
+<h3 id="finally" tabindex="-1">Finally <a class="header-anchor" href="#finally">#</a></h3>
+<p>Time to create a new Jekyll website. First move the index.html and readme.md out of the way as jekyll expects an empty directory (it doesn't seem to mind the .dot files though).</p>
+<pre><code>jekyll new .
+New jekyll site installed in /Users/brett/Git/eggplantpasta.github.io.
+</code></pre>
+<p>Generate the site and run the local server.</p>
+<p><code>jekyll serve --watch</code></p>
+<p><a href="http://localhost:4000">Tada!</a></p>
+<p>I fiddled a bit after this with the files but I'm leaving the actual real development using Jekyll to next time.</p>
+<p>Push to GitHub, check, then bedtime.</p>
+<p>[^1]: <a href="https://www.youtube.com/watch?v=9AKQ2H4QW9M">That was my mistake</a>.</p>
+
+<ul class="links-nextprev"><li>Previous: <a href="/blog/2014-03-26-first-post/">First post!</a></li><li>Next: <a href="/blog/2014-03-29-getting-started-with-media-temple/">Media Temple</a></li>
+</ul>
+
+		</main>
+
+		<footer></footer>
+
+		<!-- Current page: /blog/2014-03-27-jekyll-and-github-pages/ -->
+	</body>
+</html>

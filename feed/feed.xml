@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+	<title>eggplantpasta.github.io</title>
+	<subtitle>Stuff to remember.</subtitle>
+	<link href="https://eggplantpasta.github.io/feed/feed.xml" rel="self"/>
+	<link href="https://eggplantpasta.github.io/"/>
+	<updated>2023-07-10T18:00:00Z</updated>
+	<id>https://eggplantpasta.github.io</id>
+	<author>
+		<name>Brett Roper</name>
+		<email>roper.brett@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>Decade of Awesome</title>
+		<link href="https://eggplantpasta.github.io/blog/2023-07-10-decade-of-awesome/"/>
+		<updated>2023-07-10T18:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2023-07-10-decade-of-awesome/</id>
+		<content type="html">&lt;p&gt;In 2018, before I turned 50, my long time mate Danni talked to me about how the decade of our 50&#39;s was the last chance to do some really active things before our body starts limiting us. I took it on board and vowed to make this decade of my 50&#39;s the most awesome so far.&lt;/p&gt;
+&lt;p&gt;I made some lists. I&#39;m ticking things off. The list keeps growing faster than I&#39;ll ever be able to finish - but that&#39;s a good thing. I&#39;m having fun.&lt;/p&gt;
+&lt;h2 id=&quot;the-list-so-far&quot; tabindex=&quot;-1&quot;&gt;The List (so far) &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2023-07-10-decade-of-awesome/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Build a boat&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Drive around Australia&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Sail around Australia&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Build a house&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Get my scuba licence&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Get my glider licence&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Get my pilots licence&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Fly a hang glider&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Solo parachute&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Sail around the South Pacific&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Sail the Whitsundays&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Buy a boat&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Live off the grid&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Ski in Japan&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Surf every day for a year&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Get fit&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Enter a triathlon&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Walk the bibbulmun&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Climb a mountain with permanent snow on top&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/State_8&quot;&gt;State 8, Climb the tallest peak in every state&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; - Mount Kosciuszko in New South Wales (2,228 m)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; - Mount Bogong in Victoria (1,986 m)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; - Bimberi Peak in the Australian Capital Territory (1,911 m)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; - Mount Ossa in Tasmania (1,617 m)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; - Mount Bartle Frere in Queensland (1,611 m)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; - Mount Zeil in the Northern Territory (1,531 m)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; - Ngarutjaranya in South Australia (1,435 m)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; - Mount Meharry in Western Australia (1,249 m)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Walk the Cape to Cape&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Sail a canal boat through rural France&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Camino de Santiago&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; MundaBiddi&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Kakoda&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Watch a rocket launch&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Visit every continent&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Write a blog (you are here)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Film a YouTube channel&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Visit Antartica&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Fly to space&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Pushbike across the Nullarbor&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Milford track&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Three capes walk&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Learn under the Milky Way on guitar&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Paraglide&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Run 365km in a year&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Visit Venice before it disappears&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Visit coral Bay before it dies&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Do 50 push ups per day for a week&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Do 50 push ups per day for a month&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Do 50 push ups per day for a year&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; See snow on bluff knoll&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Handstand&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Do a front flip&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Leg press 500kg&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Hand stand push up&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Ride vomit comet&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Learn photography&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Bickley Resivour walk&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Bicep curl 20 kg&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Bicep curl 30 kg&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Learn to kite surf&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input class=&quot;task-list-item-checkbox&quot; checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Get my skippers ticket&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Brewed Ginger Beer</title>
+		<link href="https://eggplantpasta.github.io/blog/2015-02-06-ginger-beer/"/>
+		<updated>2015-02-06T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2015-02-06-ginger-beer/</id>
+		<content type="html">&lt;p&gt;I made ginger beer tonight and took photos. This is the cheap, quick, and easy version.
+Here&#39;s how it&#39;s done.&lt;/p&gt;
+&lt;h2 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2015-02-06-ginger-beer/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2 cups of sugar&lt;/li&gt;
+&lt;li&gt;1 lemon&lt;/li&gt;
+&lt;li&gt;1/4 teaspoon of yeast&lt;/li&gt;
+&lt;li&gt;2 tablespoons of powdered ginger&lt;/li&gt;
+&lt;li&gt;tap water&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;method&quot; tabindex=&quot;-1&quot;&gt;Method &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2015-02-06-ginger-beer/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Add ginger powder to cup.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add boiling water stir and cover.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strain out the ginger water.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add lemon juice.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add sugar and heat to disolve.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Divide hot concentrate between bottles and top with cold tap water.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add yeast to warm water.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mix in yeast and store in dark for 1 to 2 days to get fizzy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Store in fridge to stop fermentation.&lt;/p&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/_G9g-iO-Lt-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/_G9g-iO-Lt-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Ginger beer ingredients.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/_G9g-iO-Lt-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Ginger beer ingredients.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/aUza2AXD0E-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/aUza2AXD0E-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Add ginger powder to cup.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/aUza2AXD0E-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Add ginger powder to cup.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/bCk5SIwdvM-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/bCk5SIwdvM-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Add boiling water stir and cover.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/bCk5SIwdvM-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Add boiling water stir and cover.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/xACo1X5j17-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/xACo1X5j17-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Strain out the ginger water.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/xACo1X5j17-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Strain out the ginger water.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/UP8k7pSOmg-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/UP8k7pSOmg-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Strain out the ginger water.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/UP8k7pSOmg-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Strain out the ginger water.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/dJUBznx6Eq-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/dJUBznx6Eq-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Add lemon juice.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/dJUBznx6Eq-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Add lemon juice.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/GjSAj97JOG-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/GjSAj97JOG-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Add lemon juice.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/GjSAj97JOG-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Add lemon juice.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/KCqAHBR1zo-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/KCqAHBR1zo-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Add lemon juice.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/KCqAHBR1zo-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Add lemon juice.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/T4uXnSQuQT-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/T4uXnSQuQT-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Add sugar and heat to disolve.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/T4uXnSQuQT-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Add sugar and heat to disolve.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/UVN8gs8g7y-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/UVN8gs8g7y-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Add sugar and heat to disolve.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/UVN8gs8g7y-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Add sugar and heat to disolve.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/tzvOfcMHIp-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/tzvOfcMHIp-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Divide hot concentrate between bottles and top with cold tap water.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/tzvOfcMHIp-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Divide hot concentrate between bottles and top with cold tap water.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/pa6MyhPiVj-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/pa6MyhPiVj-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Divide hot concentrate between bottles and top with cold tap water.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/pa6MyhPiVj-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Divide hot concentrate between bottles and top with cold tap water.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/cnr5OkVIMp-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/cnr5OkVIMp-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Divide hot concentrate between bottles and top with cold tap water.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/cnr5OkVIMp-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Divide hot concentrate between bottles and top with cold tap water.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/4PXwUffeNz-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/4PXwUffeNz-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Add yeast to warm water.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/4PXwUffeNz-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Add yeast to warm water.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/NTUEa3iE_X-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/NTUEa3iE_X-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Add yeast to warm water.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/NTUEa3iE_X-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Add yeast to warm water.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/sD0XMYX3Qo-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/sD0XMYX3Qo-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Mix in yeast and store in dark for 1 to 2 days to get fizzy.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/sD0XMYX3Qo-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Mix in yeast and store in dark for 1 to 2 days to get fizzy.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://eggplantpasta.github.io/img/Z_bYeuuHsu-1024.avif 1024w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://eggplantpasta.github.io/img/Z_bYeuuHsu-1024.webp 1024w&quot;&gt;&lt;img alt=&quot;Mix in yeast and store in dark for 1 to 2 days to get fizzy.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://eggplantpasta.github.io/img/Z_bYeuuHsu-1024.jpeg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;/picture&gt;
+  	&lt;figcaption&gt;Mix in yeast and store in dark for 1 to 2 days to get fizzy.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Installing Oracle XE using Vagrant</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-05-29-oracle-vagrant/"/>
+		<updated>2014-04-21T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-05-29-oracle-vagrant/</id>
+		<content type="html">&lt;h2 id=&quot;resources&quot; tabindex=&quot;-1&quot;&gt;Resources &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-05-29-oracle-vagrant/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://wphilltech.com/sublime-text-for-oracle-apex-developers/&quot;&gt;http://wphilltech.com/sublime-text-for-oracle-apex-developers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://tuhrig.de/3-ways-of-installing-oracle-xe-11g-on-ubuntu/&quot;&gt;http://tuhrig.de/3-ways-of-installing-oracle-xe-11g-on-ubuntu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/hilverd/vagrant-ubuntu-oracle-xe&quot;&gt;https://github.com/hilverd/vagrant-ubuntu-oracle-xe&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;post-install&quot; tabindex=&quot;-1&quot;&gt;Post install &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-05-29-oracle-vagrant/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In sql developer create a connection for system/manager.&lt;/p&gt;
+&lt;p&gt;Connect and&lt;/p&gt;
+&lt;pre class=&quot;language-sql&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-sql&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;USER&lt;/span&gt; hr ACCOUNT &lt;span class=&quot;token keyword&quot;&gt;UNLOCK&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;USER&lt;/span&gt; hr IDENTIFIED &lt;span class=&quot;token keyword&quot;&gt;BY&lt;/span&gt; hr&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Create connection for hr. Connect and test.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Installing the MineCraft Server at DigitalOcean</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-05-11-minecraft-digital-ocean/"/>
+		<updated>2014-04-21T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-05-11-minecraft-digital-ocean/</id>
+		<content type="html">&lt;p&gt;Setting up an MineCraft server on &lt;a href=&quot;https://www.digitalocean.com/&quot;&gt;DigitalOcean&#39;s&lt;/a&gt; cheapest droplet (virtual server) is straight forward and works suprisingly well for a small number of players. In this guide I assume you are a little familiar with the command line and virtual servers. If you need help in this area DigitalOcean has a large number of &lt;a href=&quot;https://www.digitalocean.com/community/articles/how-to-create-your-first-digitalocean-droplet-virtual-server&quot;&gt;tutorials&lt;/a&gt; to get you started.&lt;/p&gt;
+&lt;h2 id=&quot;create-your-droplet&quot; tabindex=&quot;-1&quot;&gt;Create your droplet &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-05-11-minecraft-digital-ocean/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Create Droplet on &lt;a href=&quot;https://www.digitalocean.com/&quot;&gt;DigitalOcean&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;configure-the-software&quot; tabindex=&quot;-1&quot;&gt;Configure the software &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-05-11-minecraft-digital-ocean/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ssh root@dnsname or ip address&lt;/li&gt;
+&lt;li&gt;Update Ubuntu
+&lt;code&gt;apt-get update   apt-get dist-upgrade&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Install Java &lt;code&gt;sudo apt-get install openjdk-7-jre-headless&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;sudo apt-get install screen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;secure-the-server&quot; tabindex=&quot;-1&quot;&gt;Secure the server &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-05-11-minecraft-digital-ocean/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/articles/how-to-set-up-a-firewall-using-ip-tables-on-ubuntu-12-04&quot;&gt;set up iptables&lt;/a&gt; firewall for ssh (tcp 22) and minecraft (tcp 25565)&lt;/li&gt;
+&lt;li&gt;log in as minecraft &lt;code&gt;ssh minecraft@minecraft.pudiga.org&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;list current rules &lt;code&gt;sudo iptables -L&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;flush current rules &lt;code&gt;sudo iptables -F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sudo iptables -A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;allow ssh &lt;code&gt;sudo iptables -A INPUT -p tcp --dport ssh -j ACCEPT&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;allow minecraft &lt;code&gt;sudo iptables -A INPUT -p tcp --dport 25565 -j ACCEPT&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;drop all others &lt;code&gt;sudo iptables -A INPUT -j DROP&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;loopback access &lt;code&gt;sudo iptables -I INPUT 1 -i lo -j ACCEPT&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;sudo apt-get install iptables-persistent&lt;/li&gt;
+&lt;li&gt;sudo service iptables-persistent start&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;fix default editor &lt;code&gt;update-alternatives --config editor&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;add an unpriviledged user &lt;code&gt;adduser minecraft&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;add privileges &lt;code&gt;visudo&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;reboot for good luck&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;install-minecraft&quot; tabindex=&quot;-1&quot;&gt;Install MineCraft &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-05-11-minecraft-digital-ocean/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;copy the link to the latest minecraft server from the bottom of &lt;a href=&quot;https://minecraft.net/download&quot;&gt;this page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;download it &lt;code&gt;wget -O minecraft_server.jar https://s3.amazonaws.com/Minecraft.Download/versions/1.7.9/minecraft_server.1.7.9.jar&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start it &lt;code&gt;screen -S &amp;quot;Minecraft server&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;exit screen by &lt;code&gt;ctl-a d&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;reattach screen by &lt;code&gt;screen -R&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;java -Xmx512M -Xms512M -jar minecraft_server.jar nogui&lt;/li&gt;
+&lt;li&gt;vi vi server.properties&lt;/li&gt;
+&lt;li&gt;white-list=true&lt;/li&gt;
+&lt;li&gt;vi white-list.txt&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Using the DigitalOcean Provider with Vagrant</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-04-21-vagrant-digital-ocean/"/>
+		<updated>2014-04-21T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-04-21-vagrant-digital-ocean/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.digitalocean.com/&quot;&gt;DigitalOcean&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.digitalocean.com/community/articles/how-to-use-digitalocean-as-your-provider-in-vagrant-on-an-ubuntu-12-10-vps&quot;&gt;DigitalOcean help article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/smdahlen/vagrant-digitalocean&quot;&gt;DigitalOcean provider project on github&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Social Media Links</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-04-12-social-media-links/"/>
+		<updated>2014-04-12T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-04-12-social-media-links/</id>
+		<content type="html">&lt;p&gt;The various social media platforms all offer a way add buttons to an article or site giving the user a way to &amp;quot;like&amp;quot; or &amp;quot;share&amp;quot; a page. These supplied buttons use off-site javascript or styling that is not under your control. It slows the page load times and looks out of place.&lt;/p&gt;
+&lt;p&gt;A better way to link is by using a &lt;a href=&quot;http://stackoverflow.com/questions/7157411/adding-a-google-plus-one-or-share-link-to-an-email-newsletter&quot;&gt;URL scheme&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Remember to encode the strings you include in the URLs below&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;facebook&quot; tabindex=&quot;-1&quot;&gt;Facebook &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-12-social-media-links/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Although not facebook&#39;s preferred way there is a URL scheme supported by them to allow &lt;a href=&quot;https://developers.facebook.com/docs/plugins/share-button&quot;&gt;sharing&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class=&quot;language-html&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;a&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://www.facebook.com/sharer/sharer.php?u=sitename.com&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;_blank&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+ Share on Facebook
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;a&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;There were more &lt;a href=&quot;http://stackoverflow.com/questions/12547088/how-do-i-customize-facebooks-sharer-php&quot;&gt;options&lt;/a&gt;, such as summaries and images, allowed previously in this scheme but the prefered way now is for you to define these using open graph meta-data (see below).&lt;/p&gt;
+&lt;h3 id=&quot;twitter&quot; tabindex=&quot;-1&quot;&gt;Twitter &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-12-social-media-links/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre class=&quot;language-html&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;http://twitter.com/share?text=text goes here&amp;amp;url=http://url goes here&amp;amp;hashtags=hashtag1,hashtag2,hashtag3&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;google&quot; tabindex=&quot;-1&quot;&gt;Google+ &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-12-social-media-links/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre class=&quot;language-html&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;https://plus.google.com/share?url=your-page-url&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Google uses it&#39;s own meta data format to specify custopm images etc. but it will fall back to open graph if that&#39;s what is available.&lt;/p&gt;
+&lt;h3 id=&quot;pinterest&quot; tabindex=&quot;-1&quot;&gt;Pinterest &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-12-social-media-links/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;With the pinterest share, it needs to have an image source on the end like this:&lt;/p&gt;
+&lt;pre class=&quot;language-html&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;http://www.pinterest.com/pin/create/button/?url=example.com&amp;amp;description=blabla&amp;amp;data-pin-do=&quot;buttonPin&quot;&amp;amp;data-pin-config=&quot;none&quot;&amp;amp;media=example.com/image.jpg&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;pre class=&quot;language-html&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;amp;img src=example.com/image.jpg&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;open-graph&quot; tabindex=&quot;-1&quot;&gt;Open Graph &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-12-social-media-links/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.facebook.com/docs/opengraph/&quot;&gt;Open Graph Protocol&lt;/a&gt; meta data is used among other things to supply data about your article when sharing. This data goes in the head of your html page, for &lt;a href=&quot;http://ogp.me&quot;&gt;example&lt;/a&gt;&lt;/p&gt;
+&lt;pre class=&quot;language-html&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;html&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;prefix&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;og: http://ogp.me/ns#&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;head&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;The Rock (1996)&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;meta&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;property&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;og:title&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;The Rock&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;meta&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;property&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;og:type&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;video.movie&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;meta&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;property&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;og:url&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://www.imdb.com/title/tt0117500/&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;meta&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;property&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;og:image&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://ia.media-imdb.com/images/rock.jpg&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+...
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;head&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+...
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This open graph data is used by FaceBook, Twitter, and Google+ amongst others to determine how to share or include your content.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>301 Redirects</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-04-10-301-redirects/"/>
+		<updated>2014-04-10T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-04-10-301-redirects/</id>
+		<content type="html">&lt;h2 id=&quot;301-redirects&quot; tabindex=&quot;-1&quot;&gt;301 redirects &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-10-301-redirects/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;TODO&lt;/p&gt;
+&lt;h2 id=&quot;the-htaccess-file&quot; tabindex=&quot;-1&quot;&gt;The .htaccess file &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-10-301-redirects/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;TODO&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Drush Site Aliases</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-04-06-drush-aliases/"/>
+		<updated>2014-04-06T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-04-06-drush-aliases/</id>
+		<content type="html">&lt;h2 id=&quot;local-aliases-on-os-x&quot; tabindex=&quot;-1&quot;&gt;Local aliases on OS X &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-06-drush-aliases/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Drush aliases allow you to refer to sites via shortnames like @dev or @live. They also allow you to refer to sites when not in the root directory and even remote sites across an ssh link.&lt;/p&gt;
+&lt;p&gt;Aliases are defined in alias files. An alias file containing extensive examples and documentation is shipped with drush and can be viewed by giving the command &lt;code&gt;drush docs-aliases&lt;/code&gt; or referenced from GitHib &lt;a href=&quot;https://github.com/drush-ops/drush/blob/master/examples/example.aliases.drushrc.php&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;An alias file can be of a few forms and stored in various places but in general I like to use &amp;quot;group&amp;quot; alias files stored in the .drush directory of my home folder e.g.: &lt;code&gt;~/.drush/sitename.aliases.drushrc.php&lt;/code&gt;. I have one file per project definining (typically) a local, dev, and live site. Alias groups create an implicit namespace that is named after the group so the alias is refered to as @group.site e.g.: &lt;code&gt;drush @sitename.dev status&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The minimum definition of a local alias is:&lt;/p&gt;
+&lt;pre class=&quot;language-php&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token php language-php&quot;&gt;&lt;span class=&quot;token delimiter important&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;$aliases&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string single-quoted-string&quot;&gt;&#39;dev&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+  &lt;span class=&quot;token string single-quoted-string&quot;&gt;&#39;root&#39;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&#39;/home/username/www/dev.sitename.com&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string single-quoted-string&quot;&gt;&#39;uri&#39;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&#39;dev.sitename.com&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token delimiter important&quot;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;There are many more options than this which makes it tedious to define by hand. To shortcut the process for a working site drush itself can output the required definition. Change to the root of the working site and issue the command:&lt;/p&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;drush site-alias --with-db --show-passwords --with-optional @self&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;remote-aliases&quot; tabindex=&quot;-1&quot;&gt;Remote aliases &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-06-drush-aliases/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;examples-of-alias-usage&quot; tabindex=&quot;-1&quot;&gt;Examples of alias usage &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-04-06-drush-aliases/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Drush Usage and Commands</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-04-05-drush-usage/"/>
+		<updated>2014-04-05T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-04-05-drush-usage/</id>
+		<content type="html">&lt;p&gt;The traditional drush command reference site is &lt;a href=&quot;http://drush.ws&quot;&gt;drush.ws&lt;/a&gt; but a newer one has just recently popped up - &lt;a href=&quot;http://www.drushcommands.com&quot;&gt;Drush Commands&lt;/a&gt;. Both are good although I don&#39;t think drush.ws is being updated because the most recent version it documents is 5.&lt;/p&gt;
+&lt;p&gt;The following are examples of some of the ways I use Drush.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do a fresh &lt;a href=&quot;http://definitivedrupal.org/erratum/download-drupal-then-change-directory-not-other-way-around&quot;&gt;drupal install&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;drush dl drupal-7.x --drupal-project-rename&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;sitename.com
+&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; sitename.com
+drush si --db-url&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;mysql://dbuser:dbpassword@localhost:port/dbname&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;To download, install, and enable a module.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;drush en module_name -y&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear cache&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;drush cc&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Update Drupal core and contrib projects and apply any pending database updates (Same as pm-updatecode + updatedb). This lists the pending updates and asks if you want to continue. Remember to take a copy of &amp;quot;.htaccess&amp;quot; and &amp;quot;robots.txt&amp;quot; before doing a core update so you can integrate any changes afterwards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;drush up&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Print site alias records for all known site aliases and local sites.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;drush sa&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open a SQL command-line interface using Drupal&#39;s credentials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;drush sqlc&lt;/code&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Installing Drush</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-03-30-installing-drush/"/>
+		<updated>2014-03-29T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-03-30-installing-drush/</id>
+		<content type="html">&lt;h2 id=&quot;installing-drush-on-os-x&quot; tabindex=&quot;-1&quot;&gt;Installing Drush on OS X &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-30-installing-drush/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Installing &lt;a href=&quot;https://github.com/drush-ops/drush&quot;&gt;Drush&lt;/a&gt; on OS X is fairly straight forward. I&#39;m writing this from memory but I think it went a little like this...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; Install &lt;a href=&quot;https://itunes.apple.com/au/app/xcode/id497799835?mt=12&quot;&gt;XCode&lt;/a&gt; and command line tools from the App Store. Install &lt;a href=&quot;http://brew.sh/&quot;&gt;homebrew&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Install &lt;a href=&quot;https://getcomposer.org/doc/00-intro.md#globally-on-osx-via-homebrew-&quot;&gt;Composer&lt;/a&gt; globally (via. homebrew).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;brew update
+brew tap homebrew/dupes
+brew tap homebrew/php
+brew &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;composer&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Drush 6.x (stable at time of writing).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;composer&lt;/span&gt; global require drush/drush:6.*&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Test it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;drush &lt;span class=&quot;token parameter variable&quot;&gt;--version&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;installing-drush-on-csoft-net&quot; tabindex=&quot;-1&quot;&gt;Installing Drush on Csoft.net &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-30-installing-drush/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I&#39;ve been hosting various sites at &lt;a href=&quot;https://www.csoft.net&quot;&gt;csoft.net&lt;/a&gt; since about 2000 and using Drupal on there since around 2004 (version 4.5 I think). If you&#39;re comfortable on the command line (BSD) they help you look after yourself. They&#39;re solid.&lt;/p&gt;
+&lt;p&gt;The install of Drush on Csoft shared hosting is a little more involved than on OS X. Both Composer and Drush require command line PHP rather than the Csoft default of fast CGI. This can be found at /usr/local/php-[version]/bin/php and must be specified explicitly. Make sure to use a version of PHP with openssl to avoid the following error.&lt;/p&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;Some settings on your machine &lt;span class=&quot;token function&quot;&gt;make&lt;/span&gt; Composer unable to work properly.
+Make sure that you fix the issues listed below and run this script again:
+
+The openssl extension is missing, &lt;span class=&quot;token function&quot;&gt;which&lt;/span&gt; means that secure HTTPS transfers are impossible.
+If possible you should &lt;span class=&quot;token builtin class-name&quot;&gt;enable&lt;/span&gt; it or recompile php with --with-openssl&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Composer locally and set up an alias to ensure it runs using the correct php.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;curl&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-sS&lt;/span&gt; https://getcomposer.org/installer &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; /usr/local/php53-fat/bin/php -- --install-dir&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;bin
+&lt;span class=&quot;token builtin class-name&quot;&gt;alias&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;composer&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;/usr/local/php53-fat/bin/php ~/bin/composer.phar&#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Use Composer to install Drush.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;composer&lt;/span&gt; global require drush/drush:6.*&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Add the following aliases to your .bash_profile. The drush alias uses the &lt;a href=&quot;https://drupal.org/node/1302418&quot;&gt;currently recommended&lt;/a&gt; way of running under a particular version of PHP by setting the DRUSH_PHP environment variable and calling the drush shell script.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;alias&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;composer&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;/usr/local/php53-fat/bin/php ~/bin/composer.phar&#39;&lt;/span&gt;
+&lt;span class=&quot;token builtin class-name&quot;&gt;alias&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;drush&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;DRUSH_PHP=/usr/local/php53-fat/bin/php ~/.composer/vendor/drush/drush/drush&#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Reset the environment and test your new drush install&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;.&lt;/span&gt; ~/.bash_profile
+drush &lt;span class=&quot;token parameter variable&quot;&gt;--version&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;updating-drush&quot; tabindex=&quot;-1&quot;&gt;Updating Drush &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-30-installing-drush/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;To update to a newer version in the future:&lt;/p&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;composer&lt;/span&gt; self-update
+&lt;span class=&quot;token function&quot;&gt;composer&lt;/span&gt; global update&lt;/code&gt;&lt;/pre&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Media Temple</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-03-29-getting-started-with-media-temple/"/>
+		<updated>2014-03-29T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-03-29-getting-started-with-media-temple/</id>
+		<content type="html">&lt;h2 id=&quot;well-that-was-short-lived&quot; tabindex=&quot;-1&quot;&gt;Well that was short lived &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-29-getting-started-with-media-temple/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I&#39;d heard about &lt;a href=&quot;http://mediatemple.net&quot;&gt;Media Temple&lt;/a&gt; for years. People give them good reviews (&lt;a href=&quot;http://css-tricks.com&quot;&gt;CSS-Tricks&lt;/a&gt;) and their &lt;a href=&quot;http://mediatemple.net/webhosting/shared/&quot;&gt;grid hosting&lt;/a&gt; seemed prerfect for a high traffic site I was involved with.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Media Temple loves your success. So we built the Grid hosting platform to handle any traffic spike. From hundreds of visitors to hundreds of thousands, we’ll keep your site online.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;$20 a month&lt;/li&gt;
+&lt;li&gt;SSD database storage&lt;/li&gt;
+&lt;li&gt;Host up to 100 websites&lt;/li&gt;
+&lt;li&gt;1TB monthly bandwidth&lt;/li&gt;
+&lt;li&gt;100 GB storage&lt;/li&gt;
+&lt;li&gt;shell access&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So I &lt;a href=&quot;https://ac.mediatemple.net/order/domain.mt&quot;&gt;signed up&lt;/a&gt; and got deep into configuring it for hosting a new drupal site when I discovered &lt;a href=&quot;http://www.anthonymclin.com/hosting-drupal-mediatemples-grid-service&quot;&gt;this&lt;/a&gt; person who perfomance tested them and discovered MySQL issues with Drupal.&lt;/p&gt;
+&lt;p&gt;More googling uncovered &lt;a href=&quot;https://forum.mediatemple.net/topic/6558-504-gateway-timeout-errors-for-drupal-site/&quot;&gt;this&lt;/a&gt;, &lt;a href=&quot;https://drupal.org/node/1289828&quot;&gt;this&lt;/a&gt;, and &lt;a href=&quot;http://mediatemple.net/blog/2007/01/19/anatomy-of-mysql-on-the-grid/&quot;&gt;this&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Seems like (mt) is not the right choice for Drupal hosting. I&#39;m back on CSoft for development while I research the best solution for this new site.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>So what now?</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/"/>
+		<updated>2014-03-27T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/</id>
+		<content type="html">&lt;p&gt;It makes sense that the first thing I should document is how I got GitHub pages up and running with Jekyll.&lt;/p&gt;
+&lt;p&gt;I use OS X on my MacBook Air. If you&#39;re using OS X for any programming at all the first thing you should do is download and install XCode and the command line tools. You can get them both from the App Store. I&#39;m just saying that up front becaue no one else seems to bother to mention it and I learned it, sadly, at the &lt;em&gt;end&lt;/em&gt; of the install process (see bottom of page).&lt;/p&gt;
+&lt;h2 id=&quot;tl-dr&quot; tabindex=&quot;-1&quot;&gt;tl;dr &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The following is what I &lt;em&gt;should&lt;/em&gt; have done to set up my GitHub user pages.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Install &lt;a href=&quot;https://itunes.apple.com/au/app/xcode/id497799835?mt=12&quot;&gt;XCode&lt;/a&gt; and command line tools from the App Store.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a &lt;a href=&quot;https://github.com/new&quot;&gt;new repository&lt;/a&gt; named eggplantpasta.github.io.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; ~/Git
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; clone https://github.com/eggplantpasta/eggplantpasta.github.io
+&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; eggplantpasta.github.io
+&lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Hello World&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; index.html
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;--all&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; commit &lt;span class=&quot;token parameter variable&quot;&gt;-m&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Initial commit&quot;&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; push&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Check the new page is being served correctly at &lt;a href=&quot;http://eggplantpasta.github.io&quot;&gt;eggplantpasta.github.io&lt;/a&gt; (it could take up to 10 minutes to appear for the first time).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Install homebrew and run &lt;code&gt;brew doctor&lt;/code&gt; to ensure the environmnet is sane.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;ruby &lt;span class=&quot;token parameter variable&quot;&gt;-e&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;curl&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-fsSL&lt;/span&gt; https://raw.github.com/Homebrew/homebrew/go/install&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&quot;&lt;/span&gt;
+brew doctor&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Install &lt;a href=&quot;http://rvm.io&quot;&gt;RVM&lt;/a&gt; and Ruby, add to the path, and install dependencies (this may take a whie).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&#92;&lt;/span&gt;curl &lt;span class=&quot;token parameter variable&quot;&gt;-sSL&lt;/span&gt; https://get.rvm.io &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;bash&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-s&lt;/span&gt; stable &lt;span class=&quot;token parameter variable&quot;&gt;--ruby&lt;/span&gt; --auto-dotfiles
+&lt;span class=&quot;token builtin class-name&quot;&gt;printf&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token entity&quot; title=&quot;&#92;n&quot;&gt;&#92;n&lt;/span&gt;source ~/.profile&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt; ~/.bash_profile
+rvm requirements&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Jekyll and set up a new site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;gem &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; jekyll
+&lt;span class=&quot;token function&quot;&gt;rm&lt;/span&gt; README.md index.html
+jekyll new &lt;span class=&quot;token builtin class-name&quot;&gt;.&lt;/span&gt;
+jekyll serve &lt;span class=&quot;token parameter variable&quot;&gt;--watch&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Go to &lt;a href=&quot;http://localhost:4000&quot;&gt;http://localhost:4000&lt;/a&gt; to check the local site is being served.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;--all&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; commit &lt;span class=&quot;token parameter variable&quot;&gt;-m&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Initial Jekyll commit&quot;&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; push&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Go to &lt;a href=&quot;http://eggplantpasta.github.io&quot;&gt;eggplantpasta.github.io&lt;/a&gt; to check the local site is being served.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your work here is done.&lt;/p&gt;
+&lt;h2 id=&quot;the-epic-saga&quot; tabindex=&quot;-1&quot;&gt;The epic saga &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The following is what actually happened.&lt;/p&gt;
+&lt;h3 id=&quot;github-pages&quot; tabindex=&quot;-1&quot;&gt;GitHub Pages &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I started reading the documentation at GitHub for &lt;a href=&quot;http://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;. That was pretty straight forward and I ended up with a &amp;quot;Hello World&amp;quot; being served from &lt;a href=&quot;http://eggplantpasta.github.io&quot;&gt;here&lt;/a&gt; in short order.&lt;/p&gt;
+&lt;h3 id=&quot;jekyll&quot; tabindex=&quot;-1&quot;&gt;Jekyll &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The next thing was to get going on &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;. The quickstart on that first page was unclear about which level I should create my project in relation to the root of the repository (turns out it &lt;strong&gt;is&lt;/strong&gt; in the root).&lt;/p&gt;
+&lt;p&gt;I googled around and found this awesome &lt;a href=&quot;http://24ways.org/2013/get-started-with-github-pages/&quot;&gt;24 Ways article&lt;/a&gt; which gave me a kickstart on the rest.&lt;/p&gt;
+&lt;p&gt;In the initial setup it talked about using a repo branch called &amp;quot;gh-pages&amp;quot; but because I was setting up a user page, not a project page, I finally figured out I could ignore that bit.&lt;/p&gt;
+&lt;p&gt;At the part where I needed to install Jekyll &lt;code&gt;sudo gem install jekyll&lt;/code&gt; I received an error along the lines of &lt;code&gt;ERROR: Failed to build gem native extension.&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&quot;down-the-rabbit-hole&quot; tabindex=&quot;-1&quot;&gt;Down the rabbit hole &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Following a &lt;a href=&quot;http://andytaylor.me/2012/11/03/installing-ruby-and-jekyll/&quot;&gt;link&lt;/a&gt; from the 24 ways article I switched to new instructions. I already had the &lt;a href=&quot;https://developer.apple.com/downloads/index.action&quot;&gt;OS X command line tools&lt;/a&gt; installed[^1] so onto the next bit; installing &lt;a href=&quot;http://brew.sh&quot;&gt;Homebrew&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;homebrew&quot; tabindex=&quot;-1&quot;&gt;Homebrew &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Of course the instructions didn&#39;t work for me - they never do.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ruby -e &amp;quot;$(curl -fsSkL raw.github.com/mxcl/homebrew/go)&amp;quot;
+curl: (22) The requested URL returned error: 404 Not Found`.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;A quick trip to the &lt;a href=&quot;http://brew.sh&quot;&gt;Homebrew homepage&lt;/a&gt; got me the correct install command:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ruby -e &amp;quot;$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;the-doctor&quot; tabindex=&quot;-1&quot;&gt;The Doctor &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;At the end of this smooth install process I noticed a message saying &lt;code&gt;You should run &#39;brew doctor&#39; before you install anything&lt;/code&gt;. Always one to follow instructions, I dutifully did so only to be presented with a few screenfulls of warnings. Bummer.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Warning: Broken symlinks were found. Remove them with &#39;brew prune&#39;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Well that was easily fixed.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Warning: You have MacPorts or Fink installed&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;d installed MacPorts over a year ago to install something-or-other. Since Homebrew seemed to be the package manager in vogue I felt no qualms in &lt;a href=&quot;https://guide.macports.org/chunked/installing.macports.uninstalling.html&quot;&gt;uninstalling it&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo port -fp uninstall installed&lt;/code&gt; began clearing out way more than I remembered. Oops. Well we&#39;ll see if thats a bad thing later. I figure I can reinstall things using homebrew if I need to anyway.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Warning: Your XQuartz (2.7.4) is outdated&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://xquartz.macosforge.org/landing/&quot;&gt;update&lt;/a&gt; was long running but straight forward and sucessful.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Warning: /usr/bin occurs before /usr/local/bin&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;And finally just an edit of my &lt;code&gt;.bash_profile&lt;/code&gt; leading to &lt;code&gt;Your system is ready to brew&lt;/code&gt;. Yay!&lt;/p&gt;
+&lt;h3 id=&quot;installing-rvm&quot; tabindex=&quot;-1&quot;&gt;Installing RVM &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I checked the &lt;a href=&quot;http://rvm.io/rvm/install&quot;&gt;source&lt;/a&gt; this time but the instructions were correct so I went ahead. Seems I had installed RVM previously (see what I mean about forgetting) but it went ahead and updated my install giving me the warning:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;RVM PATH line not found for Zsh, rerun this command with &#39;--auto-dotfiles&#39; flag to fix it.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Ok. I did what it told me to and this time I get told:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  * WARNING: You have &#39;~/.profile&#39; file, you might want to load it,
+    to do that add the following line to &#39;/Users/brett/.bash_profile&#39;:
+
+      source ~/.profile
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Alrighty. I did as told. Previously I had copy pasted the contents into &lt;code&gt;.bash_profile&lt;/code&gt; but since it will only create it again I went with it&#39;s suggestion of &lt;code&gt;source&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;jekyll-again&quot; tabindex=&quot;-1&quot;&gt;Jekyll again &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;gem install jekyll&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Nope. &lt;code&gt;Gem::FilePermissionError&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Ok. &lt;code&gt;sudo gem install jekyll&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Nope. &lt;code&gt;clang: error: unknown argument:&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Seems I &lt;a href=&quot;http://stackoverflow.com/questions/21664841/unable-to-install-jekyll-on-mac-osx-10-9-1-with-xcode-and-rvm-installed&quot;&gt;have to install cc-4.2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;brew install apple-gcc42&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Nope. seems I am &lt;a href=&quot;http://stackoverflow.com/questions/10725767/error-installing-jekyll-native-extension-build&quot;&gt;missing make&lt;/a&gt; which I can get by installing XCode (which I&#39;d recently removed to make room). Curse you you miniscule SSD. So does that mean I didn&#39;t need apple-gcc42?&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;brew uninstall apple-gcc42&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Now I&#39;m following &lt;a href=&quot;http://davidensinger.com/2013/03/installing-jekyll/&quot;&gt;these&lt;/a&gt; instructions. Cross fingers.&lt;/p&gt;
+&lt;p&gt;XCode installed from app store.&lt;/p&gt;
+&lt;p&gt;Another check of &lt;code&gt;brew doctor&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Which tells me to start XCode and agree to licence.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;rvm requirements&lt;/code&gt; seems to be installing gcc46... it takes a loooong time (or perhaps it&#39;s crashed). Nope &lt;code&gt;top&lt;/code&gt; seems to show make and clang and the fans are spinning wildly. More internet reading then... Facebook bought Occulus Rift! &lt;a href=&quot;https://www.youtube.com/watch?v=gBCdlBrgEmE&quot;&gt;Strange days indeed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Requirements installation successful.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;rvm install ruby&lt;/code&gt; to get the latest stable version...&lt;/p&gt;
+&lt;p&gt;and finally &lt;code&gt;gem install jekyll&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;You can always add &lt;code&gt;--no-rdoc --no-ri&lt;/code&gt; to a gem install to skip the documentation and save a little time and space.&lt;/p&gt;
+&lt;h3 id=&quot;finally&quot; tabindex=&quot;-1&quot;&gt;Finally &lt;a class=&quot;header-anchor&quot; href=&quot;https://eggplantpasta.github.io/blog/2014-03-27-jekyll-and-github-pages/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Time to create a new Jekyll website. First move the index.html and readme.md out of the way as jekyll expects an empty directory (it doesn&#39;t seem to mind the .dot files though).&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;jekyll new .
+New jekyll site installed in /Users/brett/Git/eggplantpasta.github.io.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Generate the site and run the local server.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;jekyll serve --watch&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000&quot;&gt;Tada!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I fiddled a bit after this with the files but I&#39;m leaving the actual real development using Jekyll to next time.&lt;/p&gt;
+&lt;p&gt;Push to GitHub, check, then bedtime.&lt;/p&gt;
+&lt;p&gt;[^1]: &lt;a href=&quot;https://www.youtube.com/watch?v=9AKQ2H4QW9M&quot;&gt;That was my mistake&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>First post!</title>
+		<link href="https://eggplantpasta.github.io/blog/2014-03-26-first-post/"/>
+		<updated>2014-03-26T18:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2014-03-26-first-post/</id>
+		<content type="html">&lt;p&gt;I&#39;ve been jumping around a bit between different technologies recently; Learning heaps and forgetting as much too. I decided I needed a place to document what I&#39;d learned, and hopefully serve as a reference, so I would not have to relearn things I played with only rarely.&lt;/p&gt;
+&lt;p&gt;This is that place.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
