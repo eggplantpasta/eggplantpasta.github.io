@@ -38,7 +38,7 @@ Setting up an MineCraft server on [DigitalOcean's](https://www.digitalocean.com/
     * sudo apt-get install iptables-persistent
     * sudo service iptables-persistent start
 * fix default editor `update-alternatives --config editor`
-* add an unpriviledged user `adduser minecraft`
+* add an unprivileged user `adduser minecraft`
 * add privileges `visudo`
 * reboot for good luck
 

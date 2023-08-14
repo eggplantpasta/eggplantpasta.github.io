@@ -13,7 +13,7 @@ tags:
 
 It makes sense that the first thing I should document is how I got GitHub pages up and running with Jekyll.
 
-I use OS X on my MacBook Air. If you're using OS X for any programming at all the first thing you should do is download and install XCode and the command line tools. You can get them both from the App Store. I'm just saying that up front becaue no one else seems to bother to mention it and I learned it, sadly, at the *end* of the install process (see bottom of page).
+I use OS X on my MacBook Air. If you're using OS X for any programming at all the first thing you should do is download and install XCode and the command line tools. You can get them both from the App Store. I'm just saying that up front because no one else seems to bother to mention it and I learned it, sadly, at the *end* of the install process (see bottom of page).
 
 
 ## tl;dr
@@ -43,7 +43,7 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 brew doctor
 ```
 
-* Install [RVM](http://rvm.io) and Ruby, add to the path, and install dependencies (this may take a whie). 
+* Install [RVM](http://rvm.io) and Ruby, add to the path, and install dependencies (this may take a while). 
 
 ```bash
 \curl -sSL https://get.rvm.io | bash -s stable --ruby --auto-dotfiles
@@ -109,7 +109,7 @@ A quick trip to the [Homebrew homepage](http://brew.sh) got me the correct insta
 
 ### The Doctor
 
-At the end of this smooth install process I noticed a message saying `You should run 'brew doctor' before you install anything`. Always one to follow instructions, I dutifully did so only to be presented with a few screenfulls of warnings. Bummer.
+At the end of this smooth install process I noticed a message saying `You should run 'brew doctor' before you install anything`. Always one to follow instructions, I dutifully did so only to be presented with a few screen-fulls of warnings. Bummer.
 
 `Warning: Broken symlinks were found. Remove them with 'brew prune'`
 
@@ -123,7 +123,7 @@ I'd installed MacPorts over a year ago to install something-or-other. Since Home
 
 `Warning: Your XQuartz (2.7.4) is outdated`
 
-The [update](https://xquartz.macosforge.org/landing/) was long running but straight forward and sucessful.
+The [update](https://xquartz.macosforge.org/landing/) was long running but straight forward and successful.
 
 `Warning: /usr/bin occurs before /usr/local/bin`
 
@@ -170,7 +170,7 @@ XCode installed from app store.
 
 Another check of `brew doctor`.
 
-Which tells me to start XCode and agree to licence.
+Which tells me to start XCode and agree to license.
 
 `rvm requirements` seems to be installing gcc46... it takes a loooong time (or perhaps it's crashed). Nope `top` seems to show make and clang and the fans are spinning wildly. More internet reading then... Facebook bought Occulus Rift! [Strange days indeed](https://www.youtube.com/watch?v=gBCdlBrgEmE).
 

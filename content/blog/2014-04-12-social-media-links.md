@@ -4,7 +4,7 @@ description: "Configuring custom social media links without javascript."
 date: 2014-04-12
 tags: 
   - html
-  - socal media
+  - social media
   - open graph
 ---
 
@@ -23,7 +23,7 @@ Although not facebook's preferred way there is a URL scheme supported by them to
 </a>
 ```
 
-There were more [options](http://stackoverflow.com/questions/12547088/how-do-i-customize-facebooks-sharer-php), such as summaries and images, allowed previously in this scheme but the prefered way now is for you to define these using open graph meta-data (see below).
+There were more [options](http://stackoverflow.com/questions/12547088/how-do-i-customize-facebooks-sharer-php), such as summaries and images, allowed previously in this scheme but the preferred way now is for you to define these using open graph meta-data (see below).
 
 ### Twitter
 
@@ -37,11 +37,11 @@ http://twitter.com/share?text=text goes here&url=http://url goes here&hashtags=h
 https://plus.google.com/share?url=your-page-url
 ```
 
-Google uses it's own meta data format to specify custopm images etc. but it will fall back to open graph if that's what is available.
+Google uses it's own meta data format to specify custom images etc. but it will fall back to open graph if that's what is available.
 
 ### Pinterest
 
-With the pinterest share, it needs to have an image source on the end like this:
+With the Pinterest share, it needs to have an image source on the end like this:
 
 ```html
 http://www.pinterest.com/pin/create/button/?url=example.com&description=blabla&data-pin-do="buttonPin"&data-pin-config="none"&media=example.com/image.jpg
