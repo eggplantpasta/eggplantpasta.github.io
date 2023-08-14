@@ -16,7 +16,7 @@ I made some lists. [I'm ticking things off](#todone). The list keeps growing fas
 
 ## The List (so far)
 
-Things I'm [doing](#todo) and things I've [done](#todone).
+Things I'm [doing](#todo) and things I've [done](#todone). If I write about something on the list it'l be linked in the list below and tagged in this [article list here](/tags/decade-of-awesome/).
 
 ### TODO
 
@@ -24,9 +24,9 @@ Things I'm [doing](#todo) and things I've [done](#todone).
 - [ ] Drive around Australia
 - [ ] Sail around Australia
 - [ ] Build a house
-- [ ] Get my scuba licence
-- [ ] Get my glider licence
-- [ ] Get my pilots licence
+- [ ] Get my scuba license
+- [ ] Get my glider license
+- [ ] Get my pilots license
 - [ ] Fly a hang glider
 - [ ] Solo parachute
 - [ ] Sail around the South Pacific
@@ -36,9 +36,9 @@ Things I'm [doing](#todo) and things I've [done](#todone).
 - [ ] Surf every day for a year
 - [ ] Get fit
 - [ ] Enter a triathlon
-- [ ] Walk the bibbulmun
+- [ ] Walk the [Bibbulmun Track](https://www.bibbulmuntrack.org.au/). North to South, 211 km down (Dwellingup).
 - [ ] Climb a mountain with permanent snow on top
-- [ ] [State 8](https://en.wikipedia.org/wiki/State_8), Climb the tallest peak in every state
+- [ ] [State 8](https://en.wikipedia.org/wiki/State_8), Climb the tallest peak in every state. 4 down, 4 to go.
 - [ ] - Mount Bogong in Victoria (1,986 m)
 - [ ] - Bimberi Peak in the Australian Capital Territory (1,911 m)
 - [ ] - Mount Zeil in the Northern Territory (1,531 m)
@@ -46,8 +46,8 @@ Things I'm [doing](#todo) and things I've [done](#todone).
 - [ ] Walk the Cape to Cape
 - [ ] Sail a canal boat through rural France
 - [ ] Camino de Santiago
-- [ ] MundaBiddi
-- [ ] Kakoda
+- [ ] [Munda Biddi](https://mundabiddi.org.au/)
+- [ ] [Kakoda Track](https://en.wikipedia.org/wiki/Kokoda_Track)
 - [ ] Watch a rocket launch
 - [ ] Visit every continent
 - [ ] Film a YouTube channel
@@ -71,7 +71,7 @@ Things I'm [doing](#todo) and things I've [done](#todone).
 - [ ] Hand stand push up
 - [ ] Ride vomit comet
 - [ ] Learn photography
-- [ ] Bickley Resivour walk
+- [ ] [Bickley Reservoir Walk](https://trailswa.com.au/trails/trail/bickley-reservoir-walk)
 - [ ] Bicep curl 30 kg
 - [ ] Bench Press 100 kg
 - [ ] Learn to kite surf 
@@ -85,6 +85,6 @@ Things I'm [doing](#todo) and things I've [done](#todone).
 - [x] - Mount Kosciuszko in New South Wales (2,228 m)
 - [x] - Mount Ossa in Tasmania (1,617 m)
 - [x] - Mount Bartle Frere in Queensland (1,611 m)
-- [x] - Mount Meharry in Western Australia (1,249 m)
+- [x] - Mount Meharry in Western Australia (1,249 m). [Done and blogged](/blog/2022-10-28-mt-meharry/).
 - [x] Buy a boat
 - [x] Go on a surf safari overseas
