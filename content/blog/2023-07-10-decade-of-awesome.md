@@ -12,9 +12,13 @@ tags:
 
 In 2018, before I turned 50, my long time mate Danni talked to me about how the decade of our 50's was the last chance to do some really active things before our body starts limiting us. I took it on board and vowed to make this decade of my 50's the most awesome so far. 
 
-I made some lists. I'm ticking things off. The list keeps growing faster than I'll ever be able to finish - but that's a good thing. I'm having fun.
+I made some lists. [I'm ticking things off](#todone). The list keeps growing faster than I'll ever be able to finish - but that's a good thing. I'm having fun.
 
 ## The List (so far)
+
+Things I'm [doing](#todo) and things I've [done](#todone).
+
+### TODO
 
 - [ ] Build a boat
 - [ ] Drive around Australia
@@ -27,7 +31,6 @@ I made some lists. I'm ticking things off. The list keeps growing faster than I'
 - [ ] Solo parachute
 - [ ] Sail around the South Pacific
 - [ ] Sail the Whitsundays
-- [x] Buy a boat
 - [ ] Live off the grid
 - [ ] Ski in Japan
 - [ ] Surf every day for a year
@@ -35,15 +38,11 @@ I made some lists. I'm ticking things off. The list keeps growing faster than I'
 - [ ] Enter a triathlon
 - [ ] Walk the bibbulmun
 - [ ] Climb a mountain with permanent snow on top
-- [ ] [State 8, Climb the tallest peak in every state](https://en.wikipedia.org/wiki/State_8)
-- [x] - Mount Kosciuszko in New South Wales (2,228 m)
+- [ ] [State 8](https://en.wikipedia.org/wiki/State_8), Climb the tallest peak in every state
 - [ ] - Mount Bogong in Victoria (1,986 m)
 - [ ] - Bimberi Peak in the Australian Capital Territory (1,911 m)
-- [x] - Mount Ossa in Tasmania (1,617 m)
-- [x] - Mount Bartle Frere in Queensland (1,611 m)
 - [ ] - Mount Zeil in the Northern Territory (1,531 m)
 - [ ] - Ngarutjaranya in South Australia (1,435 m)
-- [x] - Mount Meharry in Western Australia (1,249 m)
 - [ ] Walk the Cape to Cape
 - [ ] Sail a canal boat through rural France
 - [ ] Camino de Santiago
@@ -51,7 +50,6 @@ I made some lists. I'm ticking things off. The list keeps growing faster than I'
 - [ ] Kakoda
 - [ ] Watch a rocket launch
 - [ ] Visit every continent
-- [x] Write a blog (you are here)
 - [ ] Film a YouTube channel
 - [ ] Visit Antartica
 - [ ] Fly to space
@@ -74,7 +72,19 @@ I made some lists. I'm ticking things off. The list keeps growing faster than I'
 - [ ] Ride vomit comet
 - [ ] Learn photography
 - [ ] Bickley Resivour walk
-- [x] Bicep curl 20 kg
 - [ ] Bicep curl 30 kg
+- [ ] Bench Press 100 kg
 - [ ] Learn to kite surf 
-- [x] Get my skippers ticket
+
+### TODONE
+
+- [x] Get my [skippers ticket](https://efyc.com.au/power-boating-courses/)
+- [x] Bicep curl 20 kg
+- [x] Write a blog ([you are here](https://eggplantpasta.github.io/))
+- [ ] [State 8](https://en.wikipedia.org/wiki/State_8), Climb the tallest peak in every state
+- [x] - Mount Kosciuszko in New South Wales (2,228 m)
+- [x] - Mount Ossa in Tasmania (1,617 m)
+- [x] - Mount Bartle Frere in Queensland (1,611 m)
+- [x] - Mount Meharry in Western Australia (1,249 m)
+- [x] Buy a boat
+- [x] Go on a surf safari overseas
