@@ -31,87 +31,87 @@ Here's how it's done.
 * Store in fridge to stop fermentation.
 
 	<figure>
-		{% image "../../public/img/ginger-beer1.jpg", "Ginger beer ingredients." %}
+		{% image "./ginger-beer1.jpg", "Ginger beer ingredients." %}
 		<figcaption>Ginger beer ingredients.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer2.jpg", "Add ginger powder to cup." %}
+		{% image "./ginger-beer2.jpg", "Add ginger powder to cup." %}
 		<figcaption>Add ginger powder to cup.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer3.jpg", "Add boiling water stir and cover." %}
+		{% image "./ginger-beer3.jpg", "Add boiling water stir and cover." %}
 		<figcaption>Add boiling water stir and cover.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer4.jpg", "Strain out the ginger water." %}
+		{% image "./ginger-beer4.jpg", "Strain out the ginger water." %}
 		<figcaption>Strain out the ginger water.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer5.jpg", "Strain out the ginger water." %}
+		{% image "./ginger-beer5.jpg", "Strain out the ginger water." %}
 		<figcaption>Strain out the ginger water.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer6.jpg", "Add lemon juice." %}
+		{% image "./ginger-beer6.jpg", "Add lemon juice." %}
 		<figcaption>Add lemon juice.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer7.jpg", "Add lemon juice." %}
+		{% image "./ginger-beer7.jpg", "Add lemon juice." %}
 		<figcaption>Add lemon juice.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer8.jpg", "Add lemon juice." %}
+		{% image "./ginger-beer8.jpg", "Add lemon juice." %}
 		<figcaption>Add lemon juice.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer9.jpg", "Add sugar and heat to disolve." %}
+		{% image "./ginger-beer9.jpg", "Add sugar and heat to disolve." %}
 		<figcaption>Add sugar and heat to disolve.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer10.jpg", "Add sugar and heat to disolve." %}
+		{% image "./ginger-beer10.jpg", "Add sugar and heat to disolve." %}
 		<figcaption>Add sugar and heat to disolve.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer11.jpg", "Divide hot concentrate between bottles and top with cold tap water." %}
+		{% image "./ginger-beer11.jpg", "Divide hot concentrate between bottles and top with cold tap water." %}
 		<figcaption>Divide hot concentrate between bottles and top with cold tap water.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer12.jpg", "Divide hot concentrate between bottles and top with cold tap water." %}
+		{% image "./ginger-beer12.jpg", "Divide hot concentrate between bottles and top with cold tap water." %}
 		<figcaption>Divide hot concentrate between bottles and top with cold tap water.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer13.jpg", "Divide hot concentrate between bottles and top with cold tap water." %}
+		{% image "./ginger-beer13.jpg", "Divide hot concentrate between bottles and top with cold tap water." %}
 		<figcaption>Divide hot concentrate between bottles and top with cold tap water.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer14.jpg", "Add yeast to warm water." %}
+		{% image "./ginger-beer14.jpg", "Add yeast to warm water." %}
 		<figcaption>Add yeast to warm water.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer15.jpg", "Add yeast to warm water." %}
+		{% image "./ginger-beer15.jpg", "Add yeast to warm water." %}
 		<figcaption>Add yeast to warm water.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer16.jpg", "Mix in yeast and store in dark for 1 to 2 days to get fizzy." %}
+		{% image "./ginger-beer16.jpg", "Mix in yeast and store in dark for 1 to 2 days to get fizzy." %}
 		<figcaption>Mix in yeast and store in dark for 1 to 2 days to get fizzy.</figcaption>
 	</figure>
 
 	<figure>
-		{% image "../../public/img/ginger-beer17.jpg", "Mix in yeast and store in dark for 1 to 2 days to get fizzy." %}
+		{% image "./ginger-beer17.jpg", "Mix in yeast and store in dark for 1 to 2 days to get fizzy." %}
 		<figcaption>Mix in yeast and store in dark for 1 to 2 days to get fizzy.</figcaption>
 	</figure>
 
