@@ -514,7 +514,7 @@ figcaption {
 </ul>
 
 <p>It makes sense that the first thing I should document is how I got GitHub pages up and running with Jekyll.</p>
-<p>I use OS X on my MacBook Air. If you're using OS X for any programming at all the first thing you should do is download and install XCode and the command line tools. You can get them both from the App Store. I'm just saying that up front becaue no one else seems to bother to mention it and I learned it, sadly, at the <em>end</em> of the install process (see bottom of page).</p>
+<p>I use OS X on my MacBook Air. If you're using OS X for any programming at all the first thing you should do is download and install XCode and the command line tools. You can get them both from the App Store. I'm just saying that up front because no one else seems to bother to mention it and I learned it, sadly, at the <em>end</em> of the install process (see bottom of page).</p>
 <h2 id="tl-dr" tabindex="-1">tl;dr <a class="header-anchor" href="#tl-dr">#</a></h2>
 <p>The following is what I <em>should</em> have done to set up my GitHub user pages.</p>
 <ul>
@@ -543,7 +543,7 @@ figcaption {
 <pre class="language-bash" tabindex="0"><code class="language-bash">ruby <span class="token parameter variable">-e</span> <span class="token string">"<span class="token variable"><span class="token variable">$(</span><span class="token function">curl</span> <span class="token parameter variable">-fsSL</span> https://raw.github.com/Homebrew/homebrew/go/install<span class="token variable">)</span></span>"</span>
 brew doctor</code></pre>
 <ul>
-<li>Install <a href="http://rvm.io">RVM</a> and Ruby, add to the path, and install dependencies (this may take a whie).</li>
+<li>Install <a href="http://rvm.io">RVM</a> and Ruby, add to the path, and install dependencies (this may take a while).</li>
 </ul>
 <pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token punctuation">\</span>curl <span class="token parameter variable">-sSL</span> https://get.rvm.io <span class="token operator">|</span> <span class="token function">bash</span> <span class="token parameter variable">-s</span> stable <span class="token parameter variable">--ruby</span> --auto-dotfiles
 <span class="token builtin class-name">printf</span> <span class="token string">"<span class="token entity" title="\n">\n</span>source ~/.profile"</span> <span class="token operator">>></span> ~/.bash_profile
@@ -584,14 +584,14 @@ curl: (22) The requested URL returned error: 404 Not Found`.
 <p>A quick trip to the <a href="http://brew.sh">Homebrew homepage</a> got me the correct install command:</p>
 <p><code>ruby -e &quot;$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)&quot;</code>.</p>
 <h3 id="the-doctor" tabindex="-1">The Doctor <a class="header-anchor" href="#the-doctor">#</a></h3>
-<p>At the end of this smooth install process I noticed a message saying <code>You should run 'brew doctor' before you install anything</code>. Always one to follow instructions, I dutifully did so only to be presented with a few screenfulls of warnings. Bummer.</p>
+<p>At the end of this smooth install process I noticed a message saying <code>You should run 'brew doctor' before you install anything</code>. Always one to follow instructions, I dutifully did so only to be presented with a few screen-fulls of warnings. Bummer.</p>
 <p><code>Warning: Broken symlinks were found. Remove them with 'brew prune'</code></p>
 <p>Well that was easily fixed.</p>
 <p><code>Warning: You have MacPorts or Fink installed</code></p>
 <p>I'd installed MacPorts over a year ago to install something-or-other. Since Homebrew seemed to be the package manager in vogue I felt no qualms in <a href="https://guide.macports.org/chunked/installing.macports.uninstalling.html">uninstalling it</a>.</p>
 <p><code>sudo port -fp uninstall installed</code> began clearing out way more than I remembered. Oops. Well we'll see if thats a bad thing later. I figure I can reinstall things using homebrew if I need to anyway.</p>
 <p><code>Warning: Your XQuartz (2.7.4) is outdated</code></p>
-<p>The <a href="https://xquartz.macosforge.org/landing/">update</a> was long running but straight forward and sucessful.</p>
+<p>The <a href="https://xquartz.macosforge.org/landing/">update</a> was long running but straight forward and successful.</p>
 <p><code>Warning: /usr/bin occurs before /usr/local/bin</code></p>
 <p>And finally just an edit of my <code>.bash_profile</code> leading to <code>Your system is ready to brew</code>. Yay!</p>
 <h3 id="installing-rvm" tabindex="-1">Installing RVM <a class="header-anchor" href="#installing-rvm">#</a></h3>
@@ -616,7 +616,7 @@ curl: (22) The requested URL returned error: 404 Not Found`.
 <p>Now I'm following <a href="http://davidensinger.com/2013/03/installing-jekyll/">these</a> instructions. Cross fingers.</p>
 <p>XCode installed from app store.</p>
 <p>Another check of <code>brew doctor</code>.</p>
-<p>Which tells me to start XCode and agree to licence.</p>
+<p>Which tells me to start XCode and agree to license.</p>
 <p><code>rvm requirements</code> seems to be installing gcc46... it takes a loooong time (or perhaps it's crashed). Nope <code>top</code> seems to show make and clang and the fans are spinning wildly. More internet reading then... Facebook bought Occulus Rift! <a href="https://www.youtube.com/watch?v=gBCdlBrgEmE">Strange days indeed</a>.</p>
 <p>Requirements installation successful.</p>
 <p><code>rvm install ruby</code> to get the latest stable version...</p>
