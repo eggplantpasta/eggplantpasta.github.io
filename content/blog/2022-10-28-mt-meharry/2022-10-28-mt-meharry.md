@@ -7,8 +7,6 @@ tags:
   - state 8
 ---
 
-# Mt Meharry
-
 After my first attempt was thwarted by a broken camper trailer in 2020 I finally made it up in 2022.
 
 {% image "./the-top.png", "The top." %}
