@@ -62,6 +62,11 @@ Just below the summit, where I camped the night, had really amazing sunsets and 
 
 Don't leave food in your backpack. Queensland mountain marsupials have sharp teeth. Doh again.
 
+<figure>
+		{% image "./backpack-damage.png", "Mountain marsupials are not to be trusted." %}
+		<figcaption>Mountain marsupials are not to be trusted.</figcaption>
+</figure>
+
 ## Summit and descent
 
 The summit was surrounded by vegetation so no views were to be had. The walk down was as hard as the walk up. It hurt. 
