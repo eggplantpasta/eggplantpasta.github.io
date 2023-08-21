@@ -4,12 +4,21 @@
 	<subtitle>Stuff to remember.</subtitle>
 	<link href="https://eggplantpasta.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://eggplantpasta.github.io/"/>
-	<updated>2023-07-10T18:00:00Z</updated>
+	<updated>2023-08-21T00:00:00Z</updated>
 	<id>https://eggplantpasta.github.io</id>
 	<author>
 		<name>Brett Roper</name>
 		<email>roper.brett@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Touch ID sudo</title>
+		<link href="https://eggplantpasta.github.io/blog/2023-08-21-touch-id-sudo/"/>
+		<updated>2023-08-21T00:00:00Z</updated>
+		<id>https://eggplantpasta.github.io/blog/2023-08-21-touch-id-sudo/</id>
+		<content type="html">&lt;p&gt;I didn&#39;t know this. I didn&#39;t know about touch ID sudo at all. Cool. &lt;a href=&quot;https://sixcolors.com/post/2023/08/in-macos-sonoma-touch-id-for-sudo-can-survive-updates/&quot;&gt;In macOS Sonoma, Touch ID for sudo can survive updates&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Decade of Awesome</title>

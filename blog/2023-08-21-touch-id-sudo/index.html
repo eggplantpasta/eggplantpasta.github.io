@@ -3,13 +3,180 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Tagged “decade of awesome”</title>
-		<meta name="description" content="Stuff to remember.">
+		<title>Touch ID sudo</title>
+		<meta name="description" content="I didn&#39;t know this.">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="eggplantpasta.github.io">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="eggplantpasta.github.io">
 		<meta name="generator" content="Eleventy v2.0.1">
 		
-		<style>.postlist { counter-reset: start-from 4 }
+		<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
 * { box-sizing: border-box; }
 /* Defaults */
 :root {
@@ -334,40 +501,23 @@ figcaption {
 
 		<main id="skip">
 			
-<h1>Tagged “decade of awesome”</h1>
+<h1>Touch ID sudo</h1>
 
+<ul class="post-metadata">
+	<li><time datetime="2023-08-21">21 August 2023</time></li>
+	<li><a href="/tags/command-line/" class="post-tag">command line</a>, </li>
+	<li><a href="/tags/link-list/" class="post-tag">link list</a></li>
+</ul>
 
+<p>I didn't know this. I didn't know about touch ID sudo at all. Cool. <a href="https://sixcolors.com/post/2023/08/in-macos-sonoma-touch-id-for-sudo-can-survive-updates/">In macOS Sonoma, Touch ID for sudo can survive updates</a>.</p>
 
-<ol reversed class="postlist">
-
-	<li class="postlist-item">
-		<a href="/blog/2023-07-10-decade-of-awesome/" class="postlist-link">Decade of Awesome</a>
-		<time class="postlist-date" datetime="2023-07-10">July 2023</time> &nbsp;&nbsp;&#x2022;&nbsp;&nbsp;
-		<em>My 50&#39;s are awesome.</em>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/2022-10-28-mt-meharry/" class="postlist-link">Mt Meharry</a>
-		<time class="postlist-date" datetime="2022-10-28">October 2022</time> &nbsp;&nbsp;&#x2022;&nbsp;&nbsp;
-		<em>Climbing (walking) Mt Meharry, WA&#39;s tallest peak.</em>
-	</li>
-
-	<li class="postlist-item">
-		<a href="/blog/2019-06-21-mt-bartle-frere/" class="postlist-link">Mt Bartle Frere</a>
-		<time class="postlist-date" datetime="2019-06-21">June 2019</time> &nbsp;&nbsp;&#x2022;&nbsp;&nbsp;
-		<em>Climbing Mt Bartle Frere, Queensland&#39;s tallest peak.</em>
-	</li>
-
-</ol>
-
-
-<p>See <a href="/tags/">all tags</a>.</p>
-
+<ul class="links-nextprev"><li>Previous: <a href="/blog/2023-07-10-decade-of-awesome/">Decade of Awesome</a></li>
+</ul>
 
 		</main>
 
 		<footer></footer>
 
-		<!-- Current page: /tags/decade-of-awesome/ -->
+		<!-- Current page: /blog/2023-08-21-touch-id-sudo/ -->
 	</body>
 </html>
